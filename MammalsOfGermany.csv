@@ -1,1226 +1,769 @@
-order,family,scientificName,vernacularName
-Afrosoricida,Tenrecidae,"Echinops telfairi Martin, 1838",
-Afrosoricida,Tenrecidae,"Tenrec ecaudatus (Schreber, 1778)",
-Artiodactyla,Anoplotheriidae,"Anoplotherium Cuvier, 1804",
-Artiodactyla,Anoplotheriidae,"Dacrytherium ovinum (Owen, 1857)",
-Artiodactyla,Anoplotheriidae,"Diplobune Rütimeyer, 1862",
-Artiodactyla,Anoplotheriidae,"Diplobune bavarica Fraas, 1870",
-Artiodactyla,Anoplotheriidae,"Diplobune quercyi Filhol, 1877",
-Artiodactyla,Anthracotheriidae,"Anthracotherium Cuvier, 1822",
-Artiodactyla,Anthracotheriidae,"Bunobrachyodus Depéret, 1908",
-Artiodactyla,Anthracotheriidae,"Elomeryx borbonicus Geais, 1934",
-Artiodactyla,Bovidae,"Addax nasomaculatus (Blainville, 1816)",
-Artiodactyla,Bovidae,"Ammotragus lervia (Pallas, 1777)",
-Artiodactyla,Bovidae,"Antilope Pallas, 1766",fallow deer
-Artiodactyla,Bovidae,BOLD:AAA2294,
-Artiodactyla,Bovidae,BOLD:AAE3025,
-Artiodactyla,Bovidae,"Bison C.H.Smith, 1827",bison
-Artiodactyla,Bovidae,"Bison bison (Linnaeus, 1758)",
-Artiodactyla,Bovidae,"Bison bonasus (Linnaeus, 1758)",European Bison
-Artiodactyla,Bovidae,"Bison priscus (Bojanus, 1825)",
-Artiodactyla,Bovidae,"Bos Linnaeus, 1758",ox
-Artiodactyla,Bovidae,"Bos grunniens Linnaeus, 1766",
-Artiodactyla,Bovidae,"Bos primigenius Bojanus, 1827",Oeros | Aurochs
-Artiodactyla,Bovidae,"Bos priscus (Bojanus, 1825)",
-Artiodactyla,Bovidae,"Bos taurus Linnaeus, 1758","Cattle, Cattle; wild cattle; antelopes; artiodactyls; mammals; vertebrates; chordates; animals, Galloway Cattle, Heck Cattle, Highland Cattle, Rund | Domestic cattle (feral)"
-Artiodactyla,Bovidae,"Bos taurus primigenius Bojanus, 1827",
-Artiodactyla,Bovidae,Bos taurus taurus,
-Artiodactyla,Bovidae,"Boselaphus tragocamelus (Pallas, 1766)",
-Artiodactyla,Bovidae,Bovidae,antelope
-Artiodactyla,Bovidae,"Bubalus arnee (Kerr, 1792)",
-Artiodactyla,Bovidae,"Bubalus bubalis (Linnaeus, 1758)",Domesticated Water Buffalo
-Artiodactyla,Bovidae,"Bubalus bubalis arnee (Kerr, 1792)",
-Artiodactyla,Bovidae,"Budorcas taxicolor Hodgson, 1850",
-Artiodactyla,Bovidae,"Budorcas taxicolor bedfordi Thomas, 1911",
-Artiodactyla,Bovidae,"Capra Linnaeus, 1758",
-Artiodactyla,Bovidae,"Capra aegagrus Erxleben, 1777",
-Artiodactyla,Bovidae,"Capra caucasica Güldenstaedt & Pallas, 1783",
-Artiodactyla,Bovidae,"Capra falconeri (Wagner, 1839)",
-Artiodactyla,Bovidae,"Capra hircus Linnaeus, 1758",Domesticated Goat
-Artiodactyla,Bovidae,Capra hircus hircus,
-Artiodactyla,Bovidae,"Capra ibex Linnaeus, 1758",Alpine Ibex
-Artiodactyla,Bovidae,"Cephalophus silvicultor (Afzelius, 1815)",
-Artiodactyla,Bovidae,"Deperetia Schaub, 1923",
-Artiodactyla,Bovidae,"Eotragus Pilgrim, 1939",
-Artiodactyla,Bovidae,"Gazellospira Pilgrim & Schaub, 1938",
-Artiodactyla,Bovidae,"Hippotragus niger (Harris, 1838)",
-Artiodactyla,Bovidae,"Madoqua kirkii (Günther, 1880)",
-Artiodactyla,Bovidae,"Megalovis Schaub, 1924",
-Artiodactyla,Bovidae,"Orygotherium escheri von Meyer, 1838",
-Artiodactyla,Bovidae,"Oryx gazella (Linnaeus, 1758)",
-Artiodactyla,Bovidae,"Ovibos moschatus (Zimmermann, 1780)",
-Artiodactyla,Bovidae,"Ovis Linnaeus, 1758",
-Artiodactyla,Bovidae,"Ovis ammon (Linnaeus, 1758)",Argali
-Artiodactyla,Bovidae,"Ovis ammon musimon (Pallas, 1811)",European mouflon
-Artiodactyla,Bovidae,"Ovis aries Linnaeus, 1758",Domestic Sheep
-Artiodactyla,Bovidae,Ovis aries aries,
-Artiodactyla,Bovidae,"Ovis aries musimon (Pallas, 1811)",
-Artiodactyla,Bovidae,"Ovis gmelini Blyth, 1841",
-Artiodactyla,Bovidae,"Ovis gmelini Linnaeus, 1758",Mouflon
-Artiodactyla,Bovidae,"Ovis gmelinii musimon (Pallas, 1811)",European Mouflon
-Artiodactyla,Bovidae,"Pelea capreolus (Forster, 1790)",
-Artiodactyla,Bovidae,"Praeovibos Staudinger, 1908",
-Artiodactyla,Bovidae,"Praeovibos priscus Staudinger, 1908",
-Artiodactyla,Bovidae,"Redunca fulvorufula (Afzelius, 1815)",
-Artiodactyla,Bovidae,"Rupicapra Blainville, 1816",
-Artiodactyla,Bovidae,"Rupicapra rupicapra (Linnaeus, 1758)","Alpine Chamois or Northern Chamois, Northern Chamois"
-Artiodactyla,Bovidae,Rupicapra rupicapra rupicapra,Alpine Chamois
-Artiodactyla,Bovidae,"Rupicapra tragus Gray, 1843",
-Artiodactyla,Bovidae,"Soergelia mayfieldi (Troxell, 1915)",
-Artiodactyla,Bovidae,"Strepsiceros strepsiceros (Pallas, 1766)",
-Artiodactyla,Bovidae,"Tragelaphus spekii Speke, 1863",
-Artiodactyla,Cainotheriidae,"Cainotherium Bravard, 1828",
-Artiodactyla,Cainotheriidae,"Cainotherium bavaricum Berger, 1959",
-Artiodactyla,Cainotheriidae,"Cainotherium huerzeleri Heizmann, 1983",
-Artiodactyla,Cainotheriidae,"Paroxacron bergeri Heissig, 1978",
-Artiodactyla,Cainotheriidae,"Plesiomeryx cadurcensis Gervais, 1873",
-Artiodactyla,Cainotheriidae,"Plesiomeryx huerzeleri Berger, 1959",
-Artiodactyla,Camelidae,"Camelus bactrianus Linnaeus, 1758",
-Artiodactyla,Camelidae,Camelus bactrianus bactrianus,
-Artiodactyla,Camelidae,"Camelus dromedarius Linnaeus, 1758",
-Artiodactyla,Camelidae,"Lama G.Cuvier, 1800",
-Artiodactyla,Camelidae,"Lama glama (Linnaeus, 1758)",
-Artiodactyla,Camelidae,"Lama guanicoe (Müller, 1776)",
-Artiodactyla,Camelidae,"Vicugna pacos (Linnaeus, 1758)",
-Artiodactyla,Camelidae,"Vicugna vicugna (Molina, 1782)",
-Artiodactyla,Cebochoeridae,"Cebochoerus ruetimeyeri Stehlin, 1908",
-Artiodactyla,Cebochoeridae,"Gervachoerus jaegeri (Sudre, 1978)",
-Artiodactyla,Cebochoeridae,"Taucanamo sansaniense Lartet, 1851",
-Artiodactyla,Cervidae,"Alces Gray, 1821",moose
-Artiodactyla,Cervidae,"Alces alces (Linnaeus, 1758)","Eland | Moose | Elan | Elg, Elk, Eurasian Elk, Moose, moose"
-Artiodactyla,Cervidae,Alces alces alces,European Elk
-Artiodactyla,Cervidae,"Axis axis (Erxleben, 1777)",
-Artiodactyla,Cervidae,"Capreolus Gray, 1821","Deer (Capreolus) unknown, roe"
-Artiodactyla,Cervidae,"Capreolus capreolus (Linnaeus, 1758)","European Roe Deer, European roe deer, Roe deer"
-Artiodactyla,Cervidae,Capreolus capreolus capreolus,European Roe Deer ssp capreolus
-Artiodactyla,Cervidae,"Cervalces Scott, 1885",
-Artiodactyla,Cervidae,"Cervalces latifrons (Johnson, 1874)",
-Artiodactyla,Cervidae,Cervidae,"Deer unknown, deer"
-Artiodactyla,Cervidae,"Cervus Linnaeus, 1758",
-Artiodactyla,Cervidae,"Cervus anocerus Kaup, 1839",
-Artiodactyla,Cervidae,"Cervus bertholdi Kaup, 1839",
-Artiodactyla,Cervidae,"Cervus curtocerus Kaup, 1839",
-Artiodactyla,Cervidae,"Cervus dama Linnaeus, 1758",
-Artiodactyla,Cervidae,"Cervus dicranocerus Kaup, 1839",
-Artiodactyla,Cervidae,"Cervus elaphus Linnaeus, 1758","Central European Red Deer, Edelhert | Red Deer (see comments), Edelhert | Red deer | Cerf | Rothirsch | Krondyr, Kronhjort, Red Deer, Red deer, red deer"
-Artiodactyla,Cervidae,Cervus elaphus elaphus,Western European Red Deer
-Artiodactyla,Cervidae,"Cervus nippon Temminck, 1838","Sika Deer, Sika deer"
-Artiodactyla,Cervidae,"Croizetoceros ramosus (Croizet & Jobert, 1828)",
-Artiodactyla,Cervidae,"Dama Frisch, 1775",
-Artiodactyla,Cervidae,"Dama dama (Linnaeus, 1758)","Fallow Deer, Fallow deer, fallow deer"
-Artiodactyla,Cervidae,Dama dama dama,
-Artiodactyla,Cervidae,"Dicrocerus elegans Lartet, 1837",
-Artiodactyla,Cervidae,"Eucladoceros Falconer, 1868",
-Artiodactyla,Cervidae,"Euprox Stehlin, 1928",
-Artiodactyla,Cervidae,"Heteroprox Schaub, 1928",
-Artiodactyla,Cervidae,Lagomerycidae,
-Artiodactyla,Cervidae,"Libralces Azzaroli, 1952",
-Artiodactyla,Cervidae,"Megaloceros Brookes, 1828",Irish elk
-Artiodactyla,Cervidae,"Megaloceros giganteus (Blumenbach, 1799)",
-Artiodactyla,Cervidae,"Muntiacus Rafinesque, 1815",
-Artiodactyla,Cervidae,"Muntiacus reevesi (Ogilby, 1839)",Reeves's Muntjac
-Artiodactyla,Cervidae,"Odocoileus virginianus (Zimmermann, 1780)",
-Artiodactyla,Cervidae,"Praemegaceros Portis, 1920",
-Artiodactyla,Cervidae,"Procervulus Gaudry, 1877",
-Artiodactyla,Cervidae,"Rangifer C.H.Smith, 1827",reindeer
-Artiodactyla,Cervidae,"Rangifer tarandus (Linnaeus, 1758)","Rendier | Reindeer | Renne | Rentier | Rensdyr, reindeer"
-Artiodactyla,Cervidae,"Rusa alfredi (Sclater, 1870)",
-Artiodactyla,Choeropotamidae,"Amphirhagatherium Deperet, 1908",
-Artiodactyla,Choeropotamidae,"Anthracobunodon Heller, 1934",
-Artiodactyla,Choeropotamidae,"Choeropotamus parisiensis Cuvier, 1822",
-Artiodactyla,Choeropotamidae,"Haplobunodon muelleri (Rutimeyer, 1862)",
-Artiodactyla,Choeropotamidae,"Haplobunodon solodurense Stehlin, 1908",
-Artiodactyla,Choeropotamidae,"Rhagatherium kowalevskyi Stehlin, 1908",
-Artiodactyla,Dacrytheriidae,"Tapirulus hyracinus Gervais, 1850",
-Artiodactyla,Dichobunidae,"Buxobune Sudre, 1978",
-Artiodactyla,Dichobunidae,"Dichobune fraasi Schlosser, 1902",
-Artiodactyla,Dichobunidae,"Hyperdichobune hammeli Sudre, 1978",
-Artiodactyla,Dichobunidae,"Lutzia eckfeldensis Franzen, 1994",
-Artiodactyla,Dichobunidae,"Messelobunodon ceciliensis Franzen & Krumbiegel, 1980",
-Artiodactyla,Dichobunidae,"Neufferia manderscheidi Franzen, 1994",
-Artiodactyla,Diorocetidae,"Amphicetus Beneden, 1880",
-Artiodactyla,Entelodontidae,"Entelodon Aymard, 1848",
-Artiodactyla,Eomysticetidae,"Micromysticetus tobieni (Rothausen, 1971)",
-Artiodactyla,Gelocidae,"Gelocus laubei Schlosser, 1901",
-Artiodactyla,Gelocidae,"Gelocus villebramarensis Brunet & Jehenne, 1976",
-Artiodactyla,Gelocidae,"Paragelocus Schlosser, 1902",
-Artiodactyla,Giraffidae,"Giraffa camelopardalis rothschildi Lydekker, 1903",
-Artiodactyla,Giraffidae,Giraffa giraffa giraffa,
-Artiodactyla,Giraffidae,"Okapia johnstoni (P.L.Sclater, 1901)",
-Artiodactyla,Hippopotamidae,"Hexaprotodon liberiensis (Morton, 1849)",
-Artiodactyla,Hippopotamidae,"Hippopotamus Linnaeus, 1758",hippo
-Artiodactyla,Hippopotamidae,"Hippopotamus amphibius Linnaeus, 1758",hippo
-Artiodactyla,Hypertragulidae,"Bachitherium curtum Filhol, 1877",
-Artiodactyla,Hypertragulidae,"Bachitherium lavocati Sudre, 1986",
-Artiodactyla,Lophiomerycidae,"Cryptomeryx gaudryi (Filhol, 1877)",
-Artiodactyla,Moschidae,"Dremotherium guthi Jehenne, 1987",
-Artiodactyla,Moschidae,"Micromeryx Lartet, 1851",
-Artiodactyla,Palaeomerycidae,"Amphitragulus Pomel, 1846",
-Artiodactyla,Palaeomerycidae,"Amphitragulus quercyi Filhol, 1887",
-Artiodactyla,Palaeomerycidae,"Lagomeryx Roger, 1904",
-Artiodactyla,Palaeomerycidae,"Lagomeryx ruetimeyeri Thenius, 1948",
-Artiodactyla,Palaeomerycidae,"Palaeomeryx Meyer, 1834",
-Artiodactyla,Palaeomerycidae,"Palaeomeryx kaupi von Meyer, 1834",
-Artiodactyla,Suidae,"Aper Pallas, 1766",
-Artiodactyla,Suidae,"Aureliachoerus Ginsburg, 1974",
-Artiodactyla,Suidae,"Babyrousa babyrussa (Linnaeus, 1758)",
-Artiodactyla,Suidae,"Bunolistriodon Arambourg, 1933",
-Artiodactyla,Suidae,"Conohyus huenermanni Heissig, 1989",
-Artiodactyla,Suidae,"Hyotherium soemmeringi von Meyer, 1834",
-Artiodactyla,Suidae,"Hyotherium von Meyer, 1834",
-Artiodactyla,Suidae,"Phacochoerus africanus (Gmelin, 1788)",
-Artiodactyla,Suidae,"Propalaeochoerus Stehlin, 1899",
-Artiodactyla,Suidae,Suidae,"Hog unknown, pig"
-Artiodactyla,Suidae,"Sus Linnaeus, 1758",
-Artiodactyla,Suidae,"Sus antiquus (Kaup, 1833)",
-Artiodactyla,Suidae,"Sus scrofa Linnaeus, 1758","Wild Boar, Wild boar, Wild zwijn | Wild Boar"
-Artiodactyla,Suidae,"Sus scrofa domesticus Linnaeus, 1758",
-Artiodactyla,Suidae,"Sus scrofa meridionalis Forsyth Major, 1882",
-Artiodactyla,Suidae,Sus scrofa scrofa,
-Artiodactyla,Tayassuidae,"Dicotyles tajacu (Linnaeus, 1758)",
-Artiodactyla,Tragulidae,"Dorcatherium Kaup, 1833",
-Artiodactyla,Tragulidae,"Dorcatherium crassum Lartet, 1851",
-Artiodactyla,Tragulidae,"Dorcatherium guntianum von Meyer, 1846",
-Artiodactyla,Tragulidae,"Dorcatherium naui Kaup, 1833",
-Artiodactyla,Tragulidae,"Dorcatherium vindobonense von Meyer, 1846",
-Artiodactyla,Tragulidae,"Pseudogelocus Schlosser, 1902",
-Artiodactyla,Tragulidae,Tragulidae,chevrotain
-Carnivora,Adapisoriculidae,Adapisoriculidae,
-Carnivora,Adapisoriculidae,"Bustylus cernaysi Gheerbrant & Russell, 1991",
-Carnivora,Adapisoriculidae,"Bustylus germanicus (Russell, 1964)",
-Carnivora,Amphicynodontidae,"Pachycynodon Schlosser, 1887",
-Carnivora,Amphicyonidae,"Amphicyon Lartet, 1836",
-Carnivora,Amphicyonidae,"Amphicyon giganteus Schinz, 1825",
-Carnivora,Amphicyonidae,"Amphicyon major De Blainville, 1841",
-Carnivora,Amphicyonidae,Amphicyonidae,bear-dog
-Carnivora,Amphicyonidae,"Cynelos Jourdan, 1862",
-Carnivora,Amphicyonidae,"Cynodictis Bravard & Pomel, 1950",
-Carnivora,Amphicyonidae,"Goupilictis minor (Dehm, 1935)",
-Carnivora,Amphicyonidae,"Pseudocyon steinheimensis Fraas, 1885",
-Carnivora,Barbourofelidae,"Prosansanosmilus peregrinus Heizmann et al., 1980",
-Carnivora,Canidae,"Alopex lagopus (Linnaeus, 1758)",
-Carnivora,Canidae,Canidae,Canid unknown
-Carnivora,Canidae,"Canis Linnaeus, 1758","Canid (Canis) unknown, canine"
-Carnivora,Canidae,"Canis aureus Linnaeus, 1758",Golden Jackal
-Carnivora,Canidae,"Canis aureus moreotica I.Geoffroy Saint-Hilaire, 1835",
-Carnivora,Canidae,"Canis familiaris Linnaeus, 1758","Feral Dog, dog; coyotes; dog-like carnivores; carnivores; mammals; vertebrates; chordates; animals"
-Carnivora,Canidae,"Canis latrans Say, 1823",
-Carnivora,Canidae,"Canis lupus Linnaeus, 1758","Grey wolf, Wolf, gray wolf"
-Carnivora,Canidae,"Canis lupus arctos Pocock, 1935",
-Carnivora,Canidae,"Canis lupus familiaris Linnaeus, 1758",Wolf or Domesticated Dog
-Carnivora,Canidae,Canis lupus lupus,Eurasian Wolf
-Carnivora,Canidae,"Cuon Hodgson, 1838",dhole
-Carnivora,Canidae,"Cuon alpinus (Pallas, 1811)",dhole
-Carnivora,Canidae,"Lupus lupus Linnaeus, 1758",
-Carnivora,Canidae,"Nyctereutes procyonoides (Gray, 1834)","Raccoon Dog, Raccoon dog"
-Carnivora,Canidae,"Speothos venaticus (Lund, 1842)",
-Carnivora,Canidae,"Urocyon cinereoargenteus (Schreber, 1775)",
-Carnivora,Canidae,"Vulpes Frisch, 1775",
-Carnivora,Canidae,"Vulpes corsac (Linnaeus, 1768)",
-Carnivora,Canidae,"Vulpes vulpes (Linnaeus, 1758)","Fox, Red Fox, Red fox, Räv, Vos | Red fox | Renard | Fuchs | Zorro | Sølvræv, red fox"
-Carnivora,Canidae,"Vulpes vulpes crucigera (Bechstein, 1789)",European Fox
-Carnivora,Canidae,"Vulpes vulpes dorsalis (J.E.Gray, 1838)",Red Fox ssp dorsalis
-Carnivora,Canidae,"Vulpes vulpes pusilla Blyth, 1854",
-Carnivora,Canidae,Vulpes vulpes vulpes,Scandinavian Red Fox
-Carnivora,Canidae,"Xenocyon lycaonoides Kretzoï, 1938",
-Carnivora,Eupleridae,"Cryptoprocta ferox Bennett, 1833",
-Carnivora,Felidae,"Acinonyx Brookes, 1828",cheetah
-Carnivora,Felidae,"Acinonyx jubatus (Schreber, 1775)",
-Carnivora,Felidae,BOLD:ADX1762,
-Carnivora,Felidae,"Caracal aurata (Temminck, 1827)",
-Carnivora,Felidae,Felidae,cat
-Carnivora,Felidae,"Felis Linnaeus, 1758","Wildcatlike unknown, cat"
-Carnivora,Felidae,"Felis aphanista Kaup, 1833",
-Carnivora,Felidae,"Felis catus Linnaeus, 1758","Domesticated Cat, Huiskat | Domestic Cat"
-Carnivora,Felidae,Felis domesticus,
-Carnivora,Felidae,"Felis leo spelaea (Goldfuss, 1810)",
-Carnivora,Felidae,"Felis prisca Kaup, 1833",
-Carnivora,Felidae,"Felis silvestris Schreber, 1777","European Wildcat, Europeisk vildkatt, Wildcat, wildcat"
-Carnivora,Felidae,"Felis silvestris catus Linnaeus, 1758",Wildcat or Domesticated Cat
-Carnivora,Felidae,Felis silvestris silvestris,European Wildcat ssp silvestris
-Carnivora,Felidae,"Homotherium Fabrini, 1890",
-Carnivora,Felidae,"Leopardus pardalis (Linnaeus, 1758)",Ozelot
-Carnivora,Felidae,"Lynx Kerr, 1792",lynx
-Carnivora,Felidae,"Lynx lynx (Linnaeus, 1758)","Eurasian Lynx, Eurasian lynx"
-Carnivora,Felidae,"Lynx lynx carpathicus Heptner, 1972",
-Carnivora,Felidae,"Lynx lynx isabellinus (Blyth, 1847)",
-Carnivora,Felidae,Lynx lynx lynx,
-Carnivora,Felidae,"Machairodus Kaup, 1833",
-Carnivora,Felidae,"Panthera Oken, 1816",
-Carnivora,Felidae,"Panthera gombaszoegensis Kretzoï, 1938",
-Carnivora,Felidae,"Panthera leo (Linnaeus, 1758)",lion
-Carnivora,Felidae,"Panthera leo persica (Meyer, 1826)",
-Carnivora,Felidae,"Panthera pardus (Linnaeus, 1758)",leopard
-Carnivora,Felidae,"Panthera spelaea (Goldfuss, 1810)",
-Carnivora,Felidae,"Panthera tigris altaica Temminck, 1844",
-Carnivora,Felidae,"Panthera tigris sumatrae Pocock, 1929",
-Carnivora,Felidae,"Prionailurus viverrinus (Bennett, 1833)",
-Carnivora,Felidae,"Proailurus lemanensis Filhol, 1879",
-Carnivora,Felidae,"Promegantereon ogygia (Kaup, 1833)",
-Carnivora,Felidae,"Pseudaelurus lorteti Gaillard, 1899",
-Carnivora,Felidae,"Pseudaelurus quadridentatus (de Blainville, 1843)",
-Carnivora,Felidae,"Pseudaelurus romieviensis Roman & Viret, 1934",
-Carnivora,Felidae,"Puma concolor (Linnaeus, 1771)",
-Carnivora,Herpestidae,"Helogale parvula (Sundevall, 1847)",
-Carnivora,Herpestidae,"Ichneumia I.Geoffroy Saint-Hilaire, 1837",
-Carnivora,Herpestidae,"Mungos mungo (Gmelin, 1788)",
-Carnivora,Herpestidae,"Suricata suricatta (Schreber, 1776)",
-Carnivora,Hyaenidae,"Allohyaena kadici Kretzoi, 1938",
-Carnivora,Hyaenidae,"Crocuta Kaup, 1828",spotted hyaena
-Carnivora,Hyaenidae,"Crocuta crocuta (Erxleben, 1777)",spotted hyaena
-Carnivora,Hyaenidae,"Crocuta crocuta spelaea (Goldfuss, 1823)",
-Carnivora,Hyaenidae,"Crocuta spelaea Goldfuss, 1823",
-Carnivora,Hyaenidae,"Herpestides antiquus de Blainville, 1842",
-Carnivora,Hyaenidae,"Herpestides compactus Morlo, 1996",
-Carnivora,Hyaenidae,"Hyaena Brisson, 1762",
-Carnivora,Hyaenidae,"Lycyaena Hensel, 1862",
-Carnivora,Hyaenidae,"Pachycrocuta Kretzoi, 1938",brown hyaena
-Carnivora,Hyaenidae,"Pliocrocuta perrieri Kretzoi, 1938",
-Carnivora,Hyaenidae,"Proteles cristata (Sparrman, 1783)",
-Carnivora,Hyaenidae,"Protictitherium Kretzoi, 1938",
-Carnivora,Mephitidae,"Mephitis mephitis (Schreber, 1776)",
-Carnivora,Miacidae,"Quercygale helvetica Rutimeyer, 1882",
-Carnivora,Mustelidae,BOLD:AAE9421,
-Carnivora,Mustelidae,"Enhydra lutris (Linnaeus, 1758)",
-Carnivora,Mustelidae,"Franconictis Wolsan, 1993",
-Carnivora,Mustelidae,"Franconictis vireti (Dehm, 1950)",
-Carnivora,Mustelidae,"Gulo gulo (Linnaeus, 1758)",wolverine
-Carnivora,Mustelidae,"Ischyrictis Helbing, 1930",
-Carnivora,Mustelidae,"Lontra canadensis (Schreber, 1777)",
-Carnivora,Mustelidae,"Lutra Brisson, 1762",otter
-Carnivora,Mustelidae,"Lutra lutra (Linnaeus, 1758)","Eurasian Otter, European otter"
-Carnivora,Mustelidae,Lutra lutra lutra,
-Carnivora,Mustelidae,"Lutra simplicidens Thenius, 1965",
-Carnivora,Mustelidae,"Lutreola lutreola (Linnaeus, 1761)",
-Carnivora,Mustelidae,"Martes Frisch, 1775",marten
-Carnivora,Mustelidae,"Martes Pinel, 1792","Mustelid (Martes) unknown, marten"
-Carnivora,Mustelidae,"Martes flavigula (Boddaert, 1785)",
-Carnivora,Mustelidae,"Martes foina (Erxleben, 1777)","Beech Marten, Beech marten, Stone marten, Steenmarter | Stone marten | Fouine | Steinmarder | Husmår, Stenmård, Stone or Pine Marten"
-Carnivora,Mustelidae,Martes foina foina,
-Carnivora,Mustelidae,"Martes martes (Linnaeus, 1758)","Boommarter | Pine marten | Marte | Baummarder | Skovmår, European pine marten, Pine Marten, Pine marten"
-Carnivora,Mustelidae,Martes martes martes,
-Carnivora,Mustelidae,"Meles Brisson, 1762",badger
-Carnivora,Mustelidae,"Meles meles (Linnaeus, 1758)","Das | Badger | Blaireau | Dachs | Tejón | Grævling, Eurasian Badger, Eurasian badger, European badger"
-Carnivora,Mustelidae,Meles meles meles,European Badger
-Carnivora,Mustelidae,"Mustela Linnaeus, 1758","Weasel-like unknown, weasel"
-Carnivora,Mustelidae,"Mustela erminea Linnaeus, 1758","Beringian Ermine, Hermelin, Stoat, stoat"
-Carnivora,Mustelidae,"Mustela erminea aestiva Kerr, 1792",
-Carnivora,Mustelidae,"Mustela eversmanii Lesson, 1827",
-Carnivora,Mustelidae,"Mustela furo Linnaeus, 1758",
-Carnivora,Mustelidae,"Mustela lutreola (Linnaeus, 1761)",
-Carnivora,Mustelidae,"Mustela nivalis Linnaeus, 1766","Least Weasel, Vessla, Weasel, Weasel or Stoat, least weasel"
-Carnivora,Mustelidae,Mustela nivalis nivalis,
-Carnivora,Mustelidae,"Mustela nivalis vulgaris Erxleben, 1777",
-Carnivora,Mustelidae,"Mustela putorius Linnaeus, 1758","Bunzing | Western polecat | Putois | Iltis | Ilder, European polecat, Iller, Western Polecat, Western polecat"
-Carnivora,Mustelidae,"Mustela putorius furo Linnaeus, 1758",
-Carnivora,Mustelidae,Mustela putorius putorius,
-Carnivora,Mustelidae,"Mustela vison Schreber, 1777",Mink
-Carnivora,Mustelidae,Mustelidae,"Mustelid unknown, mustelid carnivore"
-Carnivora,Mustelidae,"Neogale Gray, 1865",
-Carnivora,Mustelidae,"Neovison vison (Schreber, 1777)",American Mink
-Carnivora,Mustelidae,"Palaeogale minuta (Gervais, 1848)",
-Carnivora,Mustelidae,"Plesictis Pomel, 1846",
-Carnivora,Mustelidae,"Potamotherium Geoffroy, 1833",
-Carnivora,Mustelidae,"Potamotherium miocenicum Peters, 1868",
-Carnivora,Mustelidae,"Potamotherium vallentoni (Geoffroy-Saint-Hillaire, 1833)",
-Carnivora,Mustelidae,"Proputorius Filhol, 1890",
-Carnivora,Mustelidae,"Putorius Cuvier, 1817",polecat
-Carnivora,Mustelidae,"Stromeriella depressa Morlo, 1996",
-Carnivora,Mustelidae,"Trocharion albanense Forsyth-Major, 1903",
-Carnivora,Nimravidae,"Eusmilus bidentatus (Filhol, 1872)",
-Carnivora,Nimravidae,"Eusmilus villebramarensis Peigné & Brunet, 2001",
-Carnivora,Nimravidae,"Nimravus intermedius (Filhol, 1872)",
-Carnivora,Nimravidae,"Sansanosmilus Kretzoi, 1929",
-Carnivora,Odobenidae,"Odobenus Brisson, 1762",
-Carnivora,Odobenidae,"Odobenus rosmarus (Linnaeus, 1758)","Walrus, Walrus | Walrus | Hvalros"
-Carnivora,Otariidae,Otariidae,
-Carnivora,Otariidae,"Zalophus californianus (Lesson, 1828)",
-Carnivora,Palaeogalidae,"Palaeogale praehyaenoides Morlo, 1996",
-Carnivora,Phocidae,"Halichoerus grypus (Fabricius, 1791)","Atlantic gray seal, Grey Seal"
-Carnivora,Phocidae,"Halichoerus grypus atlantica Nehring, 1886",Atlantic Gray Seal
-Carnivora,Phocidae,Halichoerus grypus grypus,
-Carnivora,Phocidae,"Monotherium Van Beneden, 1876",
-Carnivora,Phocidae,"Pagophilus groenlandicus (Erxleben, 1777)","Harp Seal, Zadelrob | Harp seal | Greenland seal | Phoque de Groenland | Sattelrobbe | Foca de Groenlandia | Grønlandssæl"
-Carnivora,Phocidae,"Phoca vitulina Linnaeus, 1758","Gewone zeehond | Common seal | Phoque commun | Seehund | Foca moteada | Spættet sæl, Harbor Seal, Harbour Seal"
-Carnivora,Phocidae,"Phoca vitulina richardii (Gray, 1864)",
-Carnivora,Phocidae,Phoca vitulina vitulina,Eastern Atlantic Harbor Seal
-Carnivora,Phocidae,Phocidae,"Earless seals, True Seal unknown, seal"
-Carnivora,Phocidae,Pinnipedia,Seal unknown
-Carnivora,Phocidae,"Pusa hispida (Schreber, 1775)",
-Carnivora,Phocidae,"Pusa hispida botnica (Gmelin, 1788)",Baltic Ringed Seal
-Carnivora,Procyonidae,"Amphictis Pomel, 1853",
-Carnivora,Procyonidae,"Amphictis borbonica Viret, 1929",
-Carnivora,Procyonidae,"Amphictis prolongata Morlo, 1996",
-Carnivora,Procyonidae,"Amphictis schlosseri Heizmann & Morlo, 1994",
-Carnivora,Procyonidae,"Broiliana Dehm, 1950",
-Carnivora,Procyonidae,"Plesictis mayri (Dehm, 1950)",
-Carnivora,Procyonidae,Procyon cancrivorus G,
-Carnivora,Procyonidae,"Procyon lotor (Linnaeus, 1758)","Northern Raccoon, Raccoon, Waschbär"
-Carnivora,Ursidae,"Ailuropoda melanoleuca (David, 1869)",
-Carnivora,Ursidae,BOLD:AAB0412,
-Carnivora,Ursidae,"Cephalogale Jourdan, 1862",
-Carnivora,Ursidae,"Tremarctos ornatus (F.G.Cuvier, 1825)",
-Carnivora,Ursidae,"Ursavus elmensis Stehlin, 1917",
-Carnivora,Ursidae,"Ursulus Kretzoi, 1954",
-Carnivora,Ursidae,"Ursus Linnaeus, 1758",
-Carnivora,Ursidae,"Ursus americanus Pallas, 1780",Svartbjörn
-Carnivora,Ursidae,"Ursus arctos Linnaeus, 1758","Brown Bear, brown bear"
-Carnivora,Ursidae,"Ursus deningeri Richenau, 1904",
-Carnivora,Ursidae,"Ursus maritimus Phipps, 1774",polar bear
-Carnivora,Ursidae,"Ursus spelaeus Rosenmüller, 1794",cave bear
-Carnivora,Ursidae,Ursus thibetanus G,
-Carnivora,Ursidae,"Ursus thibetanus G.Cuvier, 1823",Asian black bear
-Carnivora,Viverridae,Genetta genetta genetta,
-Carnivora,Viverridae,"Genetta thierryi Matschie, 1902",
-Carnivora,Viverridae,"Semigenetta Helbing, 1927",
-Carnivora,Viverridae,"Stenogale Schlosser, 1887",
-Carnivora,Viverridae,"Stenoplesictis Filhol, 1880",
-Carnivora,Viverridae,"Stenoplesictis cayluxi Filhol, 1880",
-Carnivora,Viverridae,Viverridae,civet
-Cetacea,Acrodelphinidae,Acrodelphinidae,
-Cetacea,Balaenidae,"Balaena mysticetus Linnaeus, 1758",bowhead whale
-Cetacea,Balaenidae,"Eubalaena australis (Desmoulins, 1822)",
-Cetacea,Balaenidae,"Eubalaena glacialis (Müller, 1776)",
-Cetacea,Balaenopteridae,"Balaenoptera acutorostrata Lacépède, 1804","Common Minke Whale, Common minke whale"
-Cetacea,Balaenopteridae,"Balaenoptera borealis Lesson, 1828",
-Cetacea,Balaenopteridae,"Balaenoptera physalus (Linnaeus, 1758)",
-Cetacea,Balaenopteridae,"Megaptera novaeangliae (Borowski, 1781)","Bultrug | Humpback whale | Baleine à bosse | Buckelwal | Jorobada | Pukkelhval, Humpback Whale, Humpback whale"
-Cetacea,Balaenopteridae,"Plesiocetus Beneden, 1859",
-Cetacea,Balaenopteridae,"Praemegaptera pampauensis Behrmann, 1995",
-Cetacea,Basilosauridae,Basilosauridae,
-Cetacea,Basilosauridae,"Basilotritus Gol'din & Zvonok, 2013",
-Cetacea,Basilosauridae,"Pachycetus Van Beneden, 1883",Archeoceet
-Cetacea,Cetotheriidae,Cetotheriidae,
-Cetacea,Cetotheriidae,"Heterocetus Capellini, 1877",
-Cetacea,Delphinidae,Delphinidae,"Dolfijn, Dolphins, dolphin, dolphins"
-Cetacea,Delphinidae,"Delphinus Linnaeus, 1758",
-Cetacea,Delphinidae,"Delphinus delphis Linnaeus, 1758",Short-beaked Common Dolphin
-Cetacea,Delphinidae,"Globicephala melas (Traill, 1809)",Long-Finned Pilot Whale
-Cetacea,Delphinidae,Globicephala melas melas,Long-finned Pilot Whale (Northern Atlantic)
-Cetacea,Delphinidae,"Globicephalus karsteni (Olfers, 1839)",
-Cetacea,Delphinidae,"Lagenorhynchus Gray, 1846",White-beaked dolphins
-Cetacea,Delphinidae,"Lagenorhynchus acutus (Gray, 1828)",Atlantic white-sided dolphin
-Cetacea,Delphinidae,"Lagenorhynchus albirostris (Gray, 1846)","White-beaked Dolphin, White-beaked dolphin"
-Cetacea,Delphinidae,"Orcinus orca (Linnaeus, 1758)",Killer Whale
-Cetacea,Delphinidae,"Sousa teuszii (Kükenthal, 1892)",
-Cetacea,Delphinidae,"Stenella coeruleoalba (Meyen, 1833)",Striped Dolphin
-Cetacea,Delphinidae,"Tursiops truncatus (Montagu, 1821)","Atlantische  tuimelaar, Atlantische tuimelaar, Common Bottlenose Dolphin"
-Cetacea,Delphinidae,Tursiops truncatus truncatus,Atlantische tuimelaar
-Cetacea,Eschrichtiidae,"Eschrichtius robustus (Lilljeborg, 1861)",Grijze Walvis | Gray whale
-Cetacea,Eurhinodelphinidae,Eurhinodelphinidae,
-Cetacea,Eurhinodelphinidae,"Schizodelphis Gervais, 1861",
-Cetacea,Eurhinodelphinidae,"Schizodelphis sulcatus (Gervais, 1853)",
-Cetacea,Hyperoodontidae,"Hyperoodon ampullatus (Forster, 1770)",
-Cetacea,Hyperoodontidae,"Mesoplodon bidens (Sowerby, 1804)",Sowerby's Beaked Whale
-Cetacea,Hyperoodontidae,"Squalodelphis Piaz, 1919",
-Cetacea,Hyperoodontidae,"Squalodelphis fabianii Dal Piaz, 1917",
-Cetacea,Kentriodontidae,"Kentriodon hoepfneri Kazár & Hampe, 2014",
-Cetacea,Kentriodontidae,Kentriodontidae,
-Cetacea,Monodontidae,"Delphinapterus leucas (Pallas, 1776)",Beluga Whale
-Cetacea,Monodontidae,"Monodon monoceros Linnaeus, 1758",
-Cetacea,Monodontidae,Monodontidae,
-Cetacea,Phocoenidae,"Neomeris Gray, 1846",
-Cetacea,Phocoenidae,"Phocoena G.Cuvier, 1816",Porpoise (Phocoena) unknown
-Cetacea,Phocoenidae,"Phocoena phocoena (Linnaeus, 1758)","Harbor Porpoise, Harbor porpoise, Harbour Porpoise"
-Cetacea,Phocoenidae,Phocoena phocoena phocoena,
-Cetacea,Phocoenidae,"Phocoenoides dalli (True, 1885)",
-Cetacea,Physeteridae,"Hoplocetus crassidens Gervais, 1852",
-Cetacea,Physeteridae,"Hoplocetus ritzi Hampe, 2006",
-Cetacea,Physeteridae,"Orycterocetus Leidy, 1853",
-Cetacea,Physeteridae,"Physeter macrocephalus Linnaeus, 1758",Sperm Whale
-Cetacea,Physeteridae,Physeteridae,sperm whale
-Cetacea,Physeteridae,"Physeterula dubusii (Van Beneden, 1877)",
-Cetacea,Physeteridae,"Scaldicetus Du Bus, 1867",
-Cetacea,Physeteridae,"Scaldicetus grandis (Du Bus, 1872)",
-Cetacea,Platanistidae,"Pomatodelphis Allen, 1921",
-Cetacea,Platanistidae,"Zarhachis Cope, 1868",
-Cetacea,Squalodelphinidae,Squalodelphinidae,
-Cetacea,Squalodontidae,"Eosqualodon Rothausen, 1968",
-Cetacea,Squalodontidae,"Eosqualodon langewieschei Rothausen, 1968",
-Cetacea,Squalodontidae,"Microcetus ambiguus (Meyer, 1840)",
-Cetacea,Squalodontidae,"Pachyodon mirabilis (Meyer, 1838)",
-Cetacea,Squalodontidae,"Squalodon Grateloup, 1840",
-Cetacea,Squalodontidae,Squalodon bariensis,
-Cetacea,Squalodontidae,"Squalodon meyeri Brandt, 1873",
-Cetacea,Squalodontidae,"Squalodon molassicus (Bronn, 1837)",
-Cetacea,Squalodontidae,"Squalodon servatum (Meyer, 1841)",
-Cetacea,Squalodontidae,Squalodontidae,
-Chiroptera,Archaeonycteridae,"Cecilionycteris prisca Heller, 1935",
-Chiroptera,Archaeonycteridae,"Matthesia Smith & Storch, 1981",
-Chiroptera,Archaeonycteridae,"Palaeochiropteryx Revilliod & Pierre, 1917",
-Chiroptera,Emballonuridae,"Tachypteron franzeni Storch et al., 2002",
-Chiroptera,Hassianycterididae,"Hassianycteris Smith & Storch, 1981",
-Chiroptera,Megadermatidae,"Megaderma franconica Ziegler, 1993",
-Chiroptera,Miniopteridae,"Miniopterus schreibersii (Kuhl, 1817)",
-Chiroptera,Molossidae,"Tadarida engesseri Rachl, 1983",
-Chiroptera,Molossidae,"Tadarida leptognatha Rachl, 1983",
-Chiroptera,Palaeochiropterygidae,"Archaeonycteris Revilliod, 1917",
-Chiroptera,Pteropodidae,"Pteropus niger (Kerr, 1792)",
-Chiroptera,Rhinolophidae,"Rhinolophus Lacépède, 1799",Horseshoe Bat unknown
-Chiroptera,Rhinolophidae,"Rhinolophus blasii Peters, 1867",
-Chiroptera,Rhinolophidae,"Rhinolophus dehmi Ziegler, 1993",
-Chiroptera,Rhinolophidae,"Rhinolophus delphinensis Gaillard, 1899",
-Chiroptera,Rhinolophidae,"Rhinolophus euryale Blasius, 1853",
-Chiroptera,Rhinolophidae,"Rhinolophus ferrumequinum (Schreber, 1774)",Greater Horseshoe Bat
-Chiroptera,Rhinolophidae,"Rhinolophus hipposideros (Bechstein, 1800)",Lesser Horseshoe Bat
-Chiroptera,Rhinolophidae,"Rhinolophus hipposideros (Borkhausen, 1797)",Lesser Horseshoe Bat
-Chiroptera,Rhinolophidae,Rhinolophus hipposideros hipposideros,
-Chiroptera,Vespertilionidae,BOLD:AAA7925,
-Chiroptera,Vespertilionidae,BOLD:AAB4801,
-Chiroptera,Vespertilionidae,BOLD:AAC5524,
-Chiroptera,Vespertilionidae,BOLD:AAC7411,
-Chiroptera,Vespertilionidae,BOLD:AAD0964,
-Chiroptera,Vespertilionidae,BOLD:AAF0184,
-Chiroptera,Vespertilionidae,BOLD:ABX6369,
-Chiroptera,Vespertilionidae,"Barbastella Gray, 1821",
-Chiroptera,Vespertilionidae,"Barbastella barbastellus (Schreber, 1774)","Barbastelle Bat, Western Barbastelle"
-Chiroptera,Vespertilionidae,"Eptesicus Rafinesque, 1820",house bat
-Chiroptera,Vespertilionidae,"Eptesicus aurelianensis Ziegler, 1993",
-Chiroptera,Vespertilionidae,"Eptesicus campanensis Baudelot, 1970",
-Chiroptera,Vespertilionidae,"Eptesicus nilssonii (Keyserling & Blasius, 1839)","Northern Bat, Northern Serotine"
-Chiroptera,Vespertilionidae,"Eptesicus serotinus (Schreber, 1774)","Eurasian Serotine, Serotine, Sydfladdermus"
-Chiroptera,Vespertilionidae,"Glauconycteris Dobson, 1875",
-Chiroptera,Vespertilionidae,"Hypsugo savii (Bonaparte, 1837)",
-Chiroptera,Vespertilionidae,"Miostrellus risgoviensis Rachl, 1983",
-Chiroptera,Vespertilionidae,"Myotis Kaup, 1829",
-Chiroptera,Vespertilionidae,"Myotis alcathoe von Helversen & Heller, 2001",
-Chiroptera,Vespertilionidae,"Myotis bechsteinii (Kuhl, 1817)","Bechstein's Bat, Bechstein's Myotis, Bechsteins fladdermus"
-Chiroptera,Vespertilionidae,"Myotis blythii (Tomes, 1857)",
-Chiroptera,Vespertilionidae,"Myotis brandtii (Eversmann, 1845)",Brandt's Bat
-Chiroptera,Vespertilionidae,"Myotis dasycneme (Boie, 1825)",Pond Bat
-Chiroptera,Vespertilionidae,"Myotis daubentonii (Kuhl, 1817)","Daubenton's Bat, Daubenton's Myotis"
-Chiroptera,Vespertilionidae,Myotis daubentonii daubentonii,
-Chiroptera,Vespertilionidae,"Myotis emarginatus (E.Geoffroy, 1806)",Geoffroy's Bat
-Chiroptera,Vespertilionidae,"Myotis insularum (Dobson, 1878)",
-Chiroptera,Vespertilionidae,"Myotis myotis (Borkhausen, 1797)","Greater Mouse-eared Bat, Greater Myotis, Större musöra"
-Chiroptera,Vespertilionidae,Myotis myotis myotis,
-Chiroptera,Vespertilionidae,"Myotis mystacinus (Kuhl, 1817)","Common Whiskered Myotis, Mustaschfladdermus, Whiskered / Brandt's / Alcathoe Bat, Whiskered Bat"
-Chiroptera,Vespertilionidae,"Myotis nattereri (Kuhl, 1817)","Fransfladdermus, Natterer's Bat"
-Chiroptera,Vespertilionidae,Myotis nattereri nattereri,
-Chiroptera,Vespertilionidae,"Myotis oxygnathus (Monticelli, 1885)",
-Chiroptera,Vespertilionidae,"Nyctalus Bowditch, 1825",
-Chiroptera,Vespertilionidae,"Nyctalus aviator (Thomas, 1911)",
-Chiroptera,Vespertilionidae,"Nyctalus lasiopterus (Schreber, 1780)",
-Chiroptera,Vespertilionidae,"Nyctalus leisleri (Kuhl, 1817)","Leisler's Bat, Leisler's Noctule"
-Chiroptera,Vespertilionidae,"Nyctalus noctula (Schreber, 1774)","Common Noctule, Noctule"
-Chiroptera,Vespertilionidae,Nyctalus noctula noctula,
-Chiroptera,Vespertilionidae,"Paleptesicus Zapfe, 1970",
-Chiroptera,Vespertilionidae,"Pipistrellus Kaup, 1829",
-Chiroptera,Vespertilionidae,"Pipistrellus abramus (Temminck, 1838)",
-Chiroptera,Vespertilionidae,"Pipistrellus kuhlii (Kuhl, 1817)","Kuhl's Pipistrelle, Kuhl's or Nathusius' Pipistrelle"
-Chiroptera,Vespertilionidae,"Pipistrellus nathusii (Keyserling & Blasius, 1839)","Nathusius's Pipistrelle, Trollpipistrell"
-Chiroptera,Vespertilionidae,"Pipistrellus pipistrellus (Schreber, 1774)","Common Pipistrelle, Dwergvleermuis | Common pipistrelle | Pipistrelle | Zwergfledermaus | Pipistrelflagermus"
-Chiroptera,Vespertilionidae,Pipistrellus pipistrellus pipistrellus,
-Chiroptera,Vespertilionidae,"Pipistrellus pygmaeus (Leach, 1825)","Dvärgpipistrell, Soprano Pipistrelle"
-Chiroptera,Vespertilionidae,"Pipistrellus savii (Bonaparte, 1837)",
-Chiroptera,Vespertilionidae,"Plecotus E.Geoffroy, 1818",
-Chiroptera,Vespertilionidae,"Plecotus auritus (Linnaeus, 1758)","Brown Long-eared Bat, common long-eared bat"
-Chiroptera,Vespertilionidae,Plecotus auritus auritus,
-Chiroptera,Vespertilionidae,"Plecotus austriacus (J.Fischer, 1829)","Gray Long-eared Bat, Grey Long-eared Bat"
-Chiroptera,Vespertilionidae,"Scotophilus Leach, 1821",
-Chiroptera,Vespertilionidae,"Scotophilus viridis (Peters, 1852)",
-Chiroptera,Vespertilionidae,"Vespertilio Linnaeus, 1758",
-Chiroptera,Vespertilionidae,"Vespertilio discolor (Wagner, 1843)",
-Chiroptera,Vespertilionidae,"Vespertilio murinus Linnaeus, 1758","Eurasian Particolored Bat, Gråskimlig fladdermus, Particoloured Bat"
-Chiroptera,Vespertilionidae,Vespertilio murinus murinus,
-Chiroptera,Vespertilionidae,Vespertilionidae,vesper bat
-Didelphimorphia,Didelphidae,"Amphiperatherium Filhol, 1879",
-Didelphimorphia,Didelphidae,"Amphiperatherium exile Gervais, 1848",
-Didelphimorphia,Didelphidae,"Amphiperatherium frequens (von Meyer, 1846)",
-Didelphimorphia,Didelphidae,"Caluromys philander (Linnaeus, 1758)",
-Didelphimorphia,Didelphidae,Didelphidae,opossum
-Didelphimorphia,Didelphidae,"Monodelphis domestica (Wagner, 1842)",
-Didelphimorphia,Didelphidae,"Peratherium Aymard, 1850",
-Didelphimorphia,Didelphidae,"Peratherium giselense Heller, 1936",
-Diprotodontia,Macropodidae,"Dendrolagus goodfellowi Thomas, 1908",
-Diprotodontia,Macropodidae,"Macropus giganteus Shaw, 1790",
-Diprotodontia,Macropodidae,"Macropus robustus Gould, 1840",
-Diprotodontia,Macropodidae,"Macropus rufogriseus (Desmarest, 1817)",
-Diprotodontia,Macropodidae,Macropus rufogriseus rufogriseus,
-Erinaceomorpha,Adapisoricidae,"Adapisorex Lemoine, 1883",
-Erinaceomorpha,Amphilemuridae,"Amphilemur eocaenicus Heller, 1935",
-Erinaceomorpha,Dimylidae,"Chainodus Ziegler, 1990",
-Erinaceomorpha,Dimylidae,"Chainodus eggingensis Ziegler, 1990",
-Erinaceomorpha,Dimylidae,"Chainodus intercedens (Müller, 1967)",
-Erinaceomorpha,Dimylidae,"Chainodus sulcatus (Stephan-Hartl, 1972)",
-Erinaceomorpha,Dimylidae,"Chainodus ulmensis Ziegler, 1990",
-Erinaceomorpha,Dimylidae,"Cordylodon haslachensis von Meyer, 1859",
-Erinaceomorpha,Dimylidae,Dimylidae,
-Erinaceomorpha,Dimylidae,"Dimyloides Hurzeler, 1944",
-Erinaceomorpha,Dimylidae,"Dimyloides stehlini Hürzeler, 1944",
-Erinaceomorpha,Dimylidae,"Dimylus paradoxus von Meyer, 1846",
-Erinaceomorpha,Dimylidae,"Exoedaenodus Hurzeler, 1944",
-Erinaceomorpha,Dimylidae,"Exoedaenodus schaubi Hürzeler, 1944",
-Erinaceomorpha,Dimylidae,"Metacordylodon schlosseri (Andreae, 1904)",
-Erinaceomorpha,Dimylidae,"Plesiodimylus Gaillard, 1897",
-Erinaceomorpha,Dimylidae,"Plesiodimylus bavaricus Schötz, 1985",
-Erinaceomorpha,Dimylidae,"Plesiodimylus chantrei Gaillard, 1899",
-Erinaceomorpha,Dimylidae,"Pseudocordylodon vireti Hürzeler, 1944",
-Erinaceomorpha,Erinaceidae,"Amphechinus Aymard, 1850",
-Erinaceomorpha,Erinaceidae,"Amphechinus arvernensis (Blainville, 1839)",
-Erinaceomorpha,Erinaceidae,"Amphechinus edwardsi Filhol, 1879",
-Erinaceomorpha,Erinaceidae,"Atelerix albiventris (Wagner, 1841)",
-Erinaceomorpha,Erinaceidae,"Atelerix algirus (Lereboullet, 1842)",
-Erinaceomorpha,Erinaceidae,"Atelerix frontalis (A.Smith, 1831)",
-Erinaceomorpha,Erinaceidae,Erinaceidae,hedgehog
-Erinaceomorpha,Erinaceidae,"Erinaceus Linnaeus, 1758",
-Erinaceomorpha,Erinaceidae,"Erinaceus concolor Martin, 1838",
-Erinaceomorpha,Erinaceidae,"Erinaceus europaeus Linnaeus, 1758","Egel, Igelkott, Western European Hedgehog, Western Hedgehog, Western hedgehog, hedgehog"
-Erinaceomorpha,Erinaceidae,Erinaceus europaeus europaeus,
-Erinaceomorpha,Erinaceidae,"Erinaceus roumanicus Barrett-Hamilton, 1900",
-Erinaceomorpha,Erinaceidae,"Galerix Pomel, 1848",
-Erinaceomorpha,Erinaceidae,"Galerix aurelianensis Ziegler, 1990",
-Erinaceomorpha,Erinaceidae,"Galerix symeonidisi Doukas, 1986",
-Erinaceomorpha,Erinaceidae,"Hemiechinus auritus (Gmelin, 1770)",
-Erinaceomorpha,Erinaceidae,"Lantanotherium Filhol, 1888",
-Erinaceomorpha,Erinaceidae,"Lanthanotherium sanmigueli Villalta & Crusafont, 1944",
-Erinaceomorpha,Erinaceidae,"Mioechinus Butler, 1948",
-Erinaceomorpha,Erinaceidae,"Mioechinus sansaniensis Lartet, 1851",
-Erinaceomorpha,Erinaceidae,"Synexallerix Lopatin & Zazhigin, 2003",
-Hyracoidea,Procaviidae,"Procavia capensis (Pallas, 1766)",
-Lagomorpha,Leporidae,"Brachylagus idahoensis (Merriam, 1891)",
-Lagomorpha,Leporidae,Leporidae,"Hare or Rabbit unknown, rabbit"
-Lagomorpha,Leporidae,"Lepus Linnaeus, 1758",hare
-Lagomorpha,Leporidae,"Lepus capensis Linnaeus, 1758",Cape Hare; jackrabbits; Hares; mammals; vertebrates; chordates; animals
-Lagomorpha,Leporidae,"Lepus castroviejoi Palacios, 1977",Broom hare
-Lagomorpha,Leporidae,"Lepus europaeus Pallas, 1778","Brown hare, European Hare, Fälthare, Haas | European Hare"
-Lagomorpha,Leporidae,Lepus europaeus europaeus,European Hare ssp europeaus
-Lagomorpha,Leporidae,"Lepus starcki Petter, 1963",
-Lagomorpha,Leporidae,"Lepus timidus Linnaeus, 1758","Mountain Hare, Skogshare"
-Lagomorpha,Leporidae,Lepus timidus timidus,
-Lagomorpha,Leporidae,"Lepus timidus varronis Miller, 1901",Alpine Mountain Hare
-Lagomorpha,Leporidae,"Oryctolagus Lilljeborg, 1873",
-Lagomorpha,Leporidae,"Oryctolagus cuniculus (Linnaeus, 1758)","Domesticated Rabbit, European Rabbit, European rabbit, Konijn | European Rabbit, Rabbit, Vildkanin"
-Lagomorpha,Leporidae,Oryctolagus cuniculus borkumensis,
-Lagomorpha,Leporidae,Oryctolagus cuniculus cuniculus,
-Lagomorpha,Leporidae,"Sylvilagus palustris (Bachman, 1837)",
-Lagomorpha,Ochotonidae,"Amphilagus Tobien, 1974",
-Lagomorpha,Ochotonidae,"Lagopsis Schlosser, 1884",
-Lagomorpha,Ochotonidae,"Lagopsis verus Hensel, 1856",
-Lagomorpha,Ochotonidae,"Ochotona Link, 1795",pika
-Lagomorpha,Ochotonidae,Ochotonidae,pika
-Lagomorpha,Ochotonidae,"Piezodus Viret, 1925",
-Lagomorpha,Prolagidae,"Prolagus Pomel, 1853",
-Lagomorpha,Prolagidae,"Prolagus oeningensis (König, 1825)",
-Macroscelidea,Louisinidae,"Prolouisina atavella (Russell, 1964)",
-Macroscelidea,Louisinidae,"Walbeckodon krumbiegeli Hooker & Russell, 2012",
-Macroscelidea,Macroscelididae,"Elephantulus intufi (A.Smith, 1836)",
-Macroscelidea,Macroscelididae,"Macroscelides proboscideus (Shaw, 1800)",
-Macroscelidea,Macroscelididae,"Petrosaltator rozeti (Duvernoy, 1833)",
-Perissodactyla,Chalicotheriidae,"Chalicotherium Kaup, 1833",
-Perissodactyla,Chalicotheriidae,"Chalicotherium antiquum Kaup, 1833",
-Perissodactyla,Chalicotheriidae,"Chalicotherium goldfussi Kaup, 1833",
-Perissodactyla,Eggysodontidae,"Eggysodon Roman, 1910",
-Perissodactyla,Eggysodontidae,"Eggysodon osborni Schlosser, 1902",
-Perissodactyla,Equidae,"Allohippus Kretzoi, 1938",
-Perissodactyla,Equidae,"Anchitherium aurelianense Cuvier, 1825",
-Perissodactyla,Equidae,Equidae,horse
-Perissodactyla,Equidae,"Equus Linnaeus, 1758",horse
-Perissodactyla,Equidae,"Equus asinus Linnaeus, 1758",Feral Donkey
-Perissodactyla,Equidae,"Equus caballus Linnaeus, 1758","Feral Horse, Häst, Konik, Paard | Horse, Paard | Wild horse | Hest, horse"
-Perissodactyla,Equidae,Equus caballus caballus,
-Perissodactyla,Equidae,"Equus caballus ferus Boddaert, 1785",
-Perissodactyla,Equidae,"Equus caballus przewalskii Poliakov, 1881",
-Perissodactyla,Equidae,"Equus ferus Boddaert, 1785",
-Perissodactyla,Equidae,"Equus hemionus Pallas, 1775",
-Perissodactyla,Equidae,"Equus hemionus kulan (Groves & Mazák, 1967)",
-Perissodactyla,Equidae,"Equus hydruntinus Regalia, 1907",
-Perissodactyla,Equidae,"Equus przewalskii Poliakov, 1881",
-Perissodactyla,Equidae,"Equus quagga Boddaert, 1785",
-Perissodactyla,Equidae,"Equus quagga boehmi Matschie, 1892",
-Perissodactyla,Equidae,"Equus quagga chapmani Layard, 1865",
-Perissodactyla,Equidae,"Equus stenonis (Bustos, 1976)",
-Perissodactyla,Equidae,"Equus taubachensis Freudenberg, 1911",
-Perissodactyla,Equidae,"Eurohippus parvulus (Laurillard, 1849)",
-Perissodactyla,Equidae,"Hipparion Christol, 1832",
-Perissodactyla,Equidae,"Hipparion gracile Guerin & Mein, 1971",
-Perissodactyla,Equidae,"Hippotherium Kaup, 1833",
-Perissodactyla,Equidae,"Propalaeotherium Gervais, 1849",
-Perissodactyla,Equidae,"Propalaeotherium hassiacum Haupt, 1925",
-Perissodactyla,Equidae,"Propalaeotherium voigti (Matthes, 1977)",
-Perissodactyla,Hyracodontidae,"Hyrachyus Leidy, 2020",
-Perissodactyla,Isectolophidae,"Rhinocerolophiodon buxovillanum (Cuvier, 1812)",
-Perissodactyla,Lophiodontidae,"Lophiodon Cuvier, 1822",
-Perissodactyla,Lophiodontidae,Lophiodon filholi,
-Perissodactyla,Lophiodontidae,"Lophiodon leptorhynchum Filhol, 1888",
-Perissodactyla,Lophiodontidae,"Lophiodon remensis Lemoine, 1878",
-Perissodactyla,Palaeotheriidae,"Antiacodon pygmaeus (Cope, 1872)",
-Perissodactyla,Palaeotheriidae,"Palaeotherium castrense Noulet, 1863",
-Perissodactyla,Palaeotheriidae,"Palaeotherium isselanum (Cuvier, 1824)",
-Perissodactyla,Palaeotheriidae,"Plagiolophus Pomel, 1847",
-Perissodactyla,Palaeotheriidae,"Plagiolophus codiciensis (Gaudry, 1865)",
-Perissodactyla,Palaeotheriidae,"Plagiolophus minor Cuvier, 1804",
-Perissodactyla,Palaeotheriidae,"Propachynolophus Lemoine, 1891",
-Perissodactyla,Rhinocerotidae,"Aceratherium Kaup, 1832",
-Perissodactyla,Rhinocerotidae,"Aceratherium incisivum (Cuvier, 1824)",
-Perissodactyla,Rhinocerotidae,"Aceratherium tetradactylum (Lartet, 1837)",
-Perissodactyla,Rhinocerotidae,"Brachypotherium Roger, 1904",
-Perissodactyla,Rhinocerotidae,"Brachypotherium brachypus Lartet, 1848",
-Perissodactyla,Rhinocerotidae,"Ceratotherium simum (Burchell, 1817)",
-Perissodactyla,Rhinocerotidae,"Coelodonta Bronn, 1831",
-Perissodactyla,Rhinocerotidae,"Coelodonta antiquitatis (Blumenbach, 1799)",Wolharige neushoorn | Woolly rhinoceros
-Perissodactyla,Rhinocerotidae,"Diaceratherium Dietrich, 1931",
-Perissodactyla,Rhinocerotidae,"Dicerorhinus Gloger, 1841",
-Perissodactyla,Rhinocerotidae,"Dicerorhinus mercki Kaup, 1841",
-Perissodactyla,Rhinocerotidae,"Diceros bicornis (Linnaeus, 1758)",
-Perissodactyla,Rhinocerotidae,"Dihoplus kirchbergensis (Jäger, 1839)",
-Perissodactyla,Rhinocerotidae,"Epiaceratherium magnum Uhlig, 1999",
-Perissodactyla,Rhinocerotidae,"Lartetotherium Ginsburg, 1974",
-Perissodactyla,Rhinocerotidae,"Molassitherium delemontense Becker et al., 2013",
-Perissodactyla,Rhinocerotidae,"Plesiaceratherium Young, 1937",
-Perissodactyla,Rhinocerotidae,"Plesiaceratherium mirallesi (Crusafont et al., 1955)",
-Perissodactyla,Rhinocerotidae,"Prosantorhinus Heissig, 1974",
-Perissodactyla,Rhinocerotidae,"Prosantorhinus douvillei Osborn, 1902",
-Perissodactyla,Rhinocerotidae,"Prosantorhinus germanicus Wang, 1929",
-Perissodactyla,Rhinocerotidae,"Rhinoceros Linnaeus, 1758",one-horned rhinoceros
-Perissodactyla,Rhinocerotidae,"Rhinoceros goldfussii Kaup, 1834",
-Perissodactyla,Rhinocerotidae,"Rhinoceros incisivus (Cuvier, 1824)",
-Perissodactyla,Rhinocerotidae,"Rhinoceros minutus Cuvier, 1830",
-Perissodactyla,Rhinocerotidae,"Rhinoceros schleiermacheri (Kaup, 1834)",
-Perissodactyla,Rhinocerotidae,Rhinocerotidae,rhinoceros
-Perissodactyla,Rhinocerotidae,"Ronzotherium Aymard, 1854",
-Perissodactyla,Rhinocerotidae,"Ronzotherium filholi (Osborn, 1900)",
-Perissodactyla,Rhinocerotidae,"Stephanorhinus Kretzoi, 1942",
-Perissodactyla,Rhinocerotidae,"Stephanorhinus etruscus (Falconer, 1868)",
-Perissodactyla,Rhinocerotidae,"Stephanorhinus hemitoechus (Falconer, 1868)",
-Perissodactyla,Rhinocerotidae,"Stephanorhinus hundsheimensis (Toula, 1902)",
-Perissodactyla,Rhinocerotidae,"Stephanorhinus kirchbergensis (Jäger, 1839)",
-Perissodactyla,Tapiridae,"Paratapirus intermedius Filhol, 1885",
-Perissodactyla,Tapiridae,"Protapirus Filhol, 1877",
-Perissodactyla,Tapiridae,"Protapirus bavaricus Oettingen-Spielberg, 1952",
-Perissodactyla,Tapiridae,"Protapirus priscus Filhol, 1874",
-Perissodactyla,Tapiridae,"Tapiriscus pannonicus Kretzoi, 1951",
-Perissodactyla,Tapiridae,"Tapirus priscus Kaup, 1833",
-Perissodactyla,Tapiridae,"Tapirus terrestris (Linnaeus, 1758)",
-Pilosa,Leptictidae,"Diaphyodectes Russell, 1964",
-Pilosa,Leptictidae,"Leptictidium auderiense Tobien, 1962",
-Pilosa,Leptictidae,"Leptictidium listeri Hooker, 2013",
-Pilosa,Leptictidae,"Leptictidium nasutum Storch & Lister, 1985",
-Pilosa,Leptictidae,"Leptictidium tobieni Koenigswald & Storch, 1987",
-Pilosa,Megalonychidae,"Choloepus Illiger, 1811",
-Pilosa,Megalonychidae,"Choloepus didactylus (Linnaeus, 1758)",
-Pilosa,Myrmecophagidae,"Myrmecophaga tridactyla Linnaeus, 1758",
-Primates,Adapidae,"Protoadapis Lemoine, 1878",
-Primates,Atelidae,"Ateles belzebuth É.Geoffroy Saint-Hilaire, 1806",
-Primates,Callitrichidae,"Callimico goeldii (Thomas, 1904)",
-Primates,Callitrichidae,"Mico Lesson, 1840",
-Primates,Callitrichidae,"Saguinus imperator (Goeldi, 1907)",
-Primates,Callitrichidae,"Saguinus oedipus (Linnaeus, 1758)",
-Primates,Cebidae,"Cebus apella (Linnaeus, 1758)",
-Primates,Cercopithecidae,"Cercopithecus patas (Schreber, 1775)",
-Primates,Cercopithecidae,"Macaca Lacépède, 1799","Makak, macaque"
-Primates,Cercopithecidae,"Macaca fuscata (Blyth, 1875)",
-Primates,Cercopithecidae,"Macaca silenus (Linnaeus, 1758)",
-Primates,Cercopithecidae,"Macaca sylvanus (Linnaeus, 1758)",Barbary macaque
-Primates,Cercopithecidae,"Mandrillus leucophaeus (F.Cuvier, 1807)",
-Primates,Cercopithecidae,"Mandrillus sphinx (Linnaeus, 1758)",Mandrill
-Primates,Ekgmowechashalidae,"Periconodon Stehlin, 1916",
-Primates,Hominidae,BOLD:AAA0001,
-Primates,Hominidae,"Gorilla I.Geoffroy Saint-Hilaire, 1852",
-Primates,Hominidae,"Gorilla gorilla (Savage, 1847)",
-Primates,Hominidae,Hominidae,
-Primates,Hominidae,"Homo Linnaeus, 1758",human
-Primates,Hominidae,"Homo heidelbergensis Schoetensack, 1908",
-Primates,Hominidae,"Homo neanderthalensis King, 1864",
-Primates,Hominidae,"Homo sapiens Linnaeus, 1758",
-Primates,Hominidae,"Homo sapiens neanderthalensis Kleinshmidt, 1922",
-Primates,Hominidae,"Pan Oken, 1816",
-Primates,Hominidae,"Pan paniscus Schwarz, 1929",
-Primates,Hominidae,"Pan troglodytes (Blumenbach, 1775)",
-Primates,Hominidae,"Pongo Lacépède, 1799",
-Primates,Hylobatidae,"Hylobates lar (Linnaeus, 1771)",
-Primates,Hylobatidae,Hylobatidae,Gibbons
-Primates,Lemuridae,"Eulemur macaco (Linnaeus, 1766)",
-Primates,Lemuridae,"Lemur catta Linnaeus, 1758",
-Primates,Lemuridae,"Varecia variegata (Kerr, 1792)",
-Primates,Lorisidae,"Loris lydekkerianus Cabrera, 1908",
-Primates,Microchoeridae,"Paraloris bavaricus Fahlbusch, 1995",
-Primates,Microchoeridae,"Vectipithex raabi (Heller, 1930)",
-Primates,Microchoeridae,"Vectipithex ulmensis (Schmidt-Kittler, 1971)",
-Primates,Notharctidae,"Darwinius masillae Franzen, Gingerich, Habersetzer, Hurum, von Koenigswald & Smith, 2009",
-Primates,Notharctidae,"Europolemur klatti (Weigelt, 1933)",
-Primates,Notharctidae,"Europolemur koenigswaldi Franzen, 1987",
-Primates,Plesiadapidae,"Plesiadapis tricuspidens Gervais, 1877",
-Primates,Plesiadapidae,"Plesiadapis walbeckensis Russell, 1964",
-Primates,Pliopithecidae,Pliopithecidae,
-Primates,Pliopithecidae,"Pliopithecus antiquus (Blainville, 1839)",
-Primates,Saxonellidae,"Saxonella crepaturae Russell, 1964",
-Proboscidea,Deinotheriidae,Deinotheriidae,
-Proboscidea,Deinotheriidae,"Deinotherium Kaup, 1829",
-Proboscidea,Deinotheriidae,"Deinotherium giganteum Kaup, 1829",
-Proboscidea,Deinotheriidae,"Dinotherium Kaup & Scholl, 1832",
-Proboscidea,Deinotheriidae,"Dinotherium giganteum Kaup, 1829",
-Proboscidea,Deinotheriidae,"Prodeinotherium bavaricum (von Meyer, 1831)",
-Proboscidea,Elephantidae,"Anancus Aymard, 1855",
-Proboscidea,Elephantidae,BOLD:AAB6168,
-Proboscidea,Elephantidae,BOLD:ADQ1625,
-Proboscidea,Elephantidae,BOLD:ADW9298,
-Proboscidea,Elephantidae,Elephantidae,elephant
-Proboscidea,Elephantidae,"Elephas Linnaeus, 1758",elephant
-Proboscidea,Elephantidae,"Elephas antiquus Falconer & Cautley, 1847",
-Proboscidea,Elephantidae,"Elephas maximus Linnaeus, 1758",
-Proboscidea,Elephantidae,Elephas primigenius,
-Proboscidea,Elephantidae,"Loxodonta africana (Blumenbach, 1797)",
-Proboscidea,Elephantidae,"Mammuthus meridionalis (Nesti, 1825)",Zuidelijke olifant
-Proboscidea,Elephantidae,"Mammuthus primigenius (Blumenbach, 1799)","Wolharige Mammoet | Woolly Mammoth | Mammouth laineux | Wollhaarmammut, wooly mammoth"
-Proboscidea,Elephantidae,"Mammuthus trogontherii (Pohlig, 1885)",
-Proboscidea,Elephantidae,"Mastodon longirostris (Kaup, 1832)",
-Proboscidea,Elephantidae,"Palaeoloxodon Matsumoto, 1924",
-Proboscidea,Elephantidae,"Palaeoloxodon antiquus (Falconer & Cautley, 1847)",
-Proboscidea,Elephantidae,"Tetralophodon longirostris (Kaup, 1832)",
-Proboscidea,Gomphotheriidae,Gomphotheriidae,
-Proboscidea,Gomphotheriidae,"Gomphotherium Burmeister, 1837",
-Proboscidea,Gomphotheriidae,"Gomphotherium angustidens Burmeister, 1837",
-Proboscidea,Gomphotheriidae,"Mastodon Cuvier, 1817",
-Proboscidea,Gomphotheriidae,"Tetrabelodon Cope, 1884",
-Proboscidea,Gomphotheriidae,"Zygolophodon turicensis (Schintz, 1824)",
-Rodentia,Allomyidae,"Ephemeromys hospes Wang & Heissig, 1984",
-Rodentia,Allomyidae,"Plesispermophilus angustidens Filhol, 1882",
-Rodentia,Allomyidae,"Plesispermophilus ernii Stehlin & Schaub, 1951",
-Rodentia,Allomyidae,"Plesispermophilus macrodon Schmidt-Kittler & Vianey-Liaud, 1979",
-Rodentia,Allomyidae,"Sciurodon cadurcensis Schlosser, 1884",
-Rodentia,Anomalomyidae,"Anomalomys gaudryi Mein & Freudenthal, 1971",
-Rodentia,Anomalomyidae,"Anomalomys minor Fejfar, 1972",
-Rodentia,Anomalomyidae,"Anomalomys minutus Bollinger, 1992",
-Rodentia,Anomalomyidae,"Prospalax Méhely, 1908",
-Rodentia,Aplodontiidae,"Ansomys descendens (Dehm, 1950)",
-Rodentia,Aplodontiidae,"Aplodontia rufa (Rafinesque, 1817)",
-Rodentia,Aplodontiidae,"Lophallomys atavus (Schmidt-Kittler & Vianey-Liaud, 1979)",
-Rodentia,Bathyergidae,"Heterocephalus glaber Rüppell, 1842",
-Rodentia,Castoridae,"Castor Linnaeus, 1758",Beaver unknown
-Rodentia,Castoridae,"Castor canadensis Kuhl, 1820",
-Rodentia,Castoridae,"Castor fiber Linnaeus, 1758","Bever | Eurasian beaver | Castor | Biber | Castor Europeo | Bæver, Eurasian Beaver, Eurasian beaver, European beaver"
-Rodentia,Castoridae,Castor fiber fiber,
-Rodentia,Castoridae,"Steneofiber Geoffroy St.Hilaire, 1834",
-Rodentia,Castoridae,"Steneofiber depereti Mayet, 1908",
-Rodentia,Castoridae,"Trogontherium Fischer de Waldheim, 1809",
-Rodentia,Caviidae,"Dolichotis patagonum (Zimmermann, 1780)",
-Rodentia,Caviidae,"Galea musteloides Meyen, 1833",
-Rodentia,Cricetidae,"Abrothrix Waterhouse, 1837",
-Rodentia,Cricetidae,"Alexandromys oeconomus (Pallas, 1776)",
-Rodentia,Cricetidae,"Allocricetus Schaub, 1930",
-Rodentia,Cricetidae,"Arvicola Lacépède, 1799",
-Rodentia,Cricetidae,"Arvicola amphibius (Linnaeus, 1758)","Eurasian Water Vole, European or Montane Water Vole"
-Rodentia,Cricetidae,"Arvicola sapidus Miller, 1908",
-Rodentia,Cricetidae,"Arvicola scherman (Shaw, 1801)",Montane Water Vole
-Rodentia,Cricetidae,"Arvicola scherman exitus Miller, 1910",
-Rodentia,Cricetidae,"Arvicola terrestris (Linnaeus, 1758)","European water vole, Water vole"
-Rodentia,Cricetidae,Arvicola terrestris terrestris,
-Rodentia,Cricetidae,Arvicolidae,vole
-Rodentia,Cricetidae,BOLD:AAA5168,
-Rodentia,Cricetidae,BOLD:AAF2346,
-Rodentia,Cricetidae,"Chionomys Miller, 1908",European Snow Vole
-Rodentia,Cricetidae,"Chionomys nivalis (Martins, 1842)",European Snow Vole
-Rodentia,Cricetidae,"Clethrionomys Tilesius, 1850",
-Rodentia,Cricetidae,"Clethrionomys glareolus (Schreber, 1780)","Bank Vole, Bank vole"
-Rodentia,Cricetidae,"Clethrionomys rufocanus (Sundevall, 1846)",
-Rodentia,Cricetidae,"Clethrionomys rutilus (Pallas, 1779)",
-Rodentia,Cricetidae,Cricetidae,Vole
-Rodentia,Cricetidae,"Cricetulus migratorius (Pallas, 1773)",
-Rodentia,Cricetidae,"Cricetus Leske, 1779",
-Rodentia,Cricetidae,"Cricetus cricetus (Linnaeus, 1758)",Common Hamster
-Rodentia,Cricetidae,Cricetus cricetus cricetus,
-Rodentia,Cricetidae,"Cricetus frumentarius Pallas, 1811",
-Rodentia,Cricetidae,"Dicrostonyx Gloger, 1841",lemming
-Rodentia,Cricetidae,"Germanomys Heller, 1936",
-Rodentia,Cricetidae,"Hypudaeus Illiger, 1811",
-Rodentia,Cricetidae,"Karydomys wigharti Mörs & Kalthoff, 2004",
-Rodentia,Cricetidae,"Lemmus Link, 1795",
-Rodentia,Cricetidae,"Lemmus lemmus (Linnaeus, 1758)",Norway lemming
-Rodentia,Cricetidae,"Mesocricetus auratus (Waterhouse, 1839)",
-Rodentia,Cricetidae,"Microtus Schrank, 1798",vole
-Rodentia,Cricetidae,"Microtus agrestis (Linnaeus, 1761)","Field Vole, Short-tailed Field Vole, Vole, Field, field vole"
-Rodentia,Cricetidae,"Microtus arvalis (Pallas, 1779)","Common Vole, Common Vole or Short-tailed Field Vole, common vole"
-Rodentia,Cricetidae,Microtus arvalis arvalis,
-Rodentia,Cricetidae,"Microtus bavaricus Konig, 1962",
-Rodentia,Cricetidae,"Microtus miurus Osgood, 1901",
-Rodentia,Cricetidae,"Microtus nivalis (Martins, 1842)",
-Rodentia,Cricetidae,"Microtus oeconomus (Pallas, 1776)","tundra vole, root vole"
-Rodentia,Cricetidae,"Microtus oeconomus ratticeps (Keyserling & Blasius, 1841)",
-Rodentia,Cricetidae,"Microtus subterraneus (Selys-Longchamps, 1836)",Common Pine Vole
-Rodentia,Cricetidae,"Mirabella tuberosa (de Bruijn et al., 1987)",
-Rodentia,Cricetidae,"Mixocricetodon dehmi Rummel, 1997",
-Rodentia,Cricetidae,"Myodes Pallas, 1811",
-Rodentia,Cricetidae,"Myodes glareolus (Schreber, 1780)",Bank Vole
-Rodentia,Cricetidae,Myodes glareolus glareolus,
-Rodentia,Cricetidae,"Myodes rufocanus (Sundevall, 1846)",
-Rodentia,Cricetidae,"Neodon irene (Thomas, 1911)",
-Rodentia,Cricetidae,"Ondatra zibethicus (Linnaeus, 1766)","Bisam, Common Muskrat, Muskrat"
-Rodentia,Cricetidae,"Pitymys subterraneus (de Sélys-Longchamps, 1836)",
-Rodentia,Cricetidae,"Propliomys Kretzoi, 1959",
-Rodentia,Cricetidae,"Thomasomys paramorum Thomas, 1898",
-Rodentia,Cricetidae,"Tobienia kretzoii Fejfar & Repenning, 1998",
-Rodentia,Ctenodactylidae,"Ctenodactylus gundi (Rothmann, 1776)",
-Rodentia,Dipodidae,"Napaeozapus insignis (Miller, 1891)",
-Rodentia,Dipodidae,"Plesiosminthus Viret, 1926",
-Rodentia,Dipodidae,"Plesiosminthus myarion Schaub, 1930",
-Rodentia,Dipodidae,"Plesiosminthus schaubi Viret, 1926",
-Rodentia,Dipodidae,"Sicista Gray, 1827",birch mouse
-Rodentia,Dipodidae,"Sicista betulina (Pallas, 1779)",Northern Birch Mouse
-Rodentia,Dipodidae,"Sminthozapus Sulimski, 1962",
-Rodentia,Eomyidae,"Apeomys tuerkheimae Fahlbusch, 1968",
-Rodentia,Eomyidae,Eomyidae,
-Rodentia,Eomyidae,"Eomyodon Engesser, 1987",
-Rodentia,Eomyidae,"Eomyodon mayoi Engesser, 1990",
-Rodentia,Eomyidae,"Eomyodon pusillus Fahlbusch, 1969",
-Rodentia,Eomyidae,"Eomyodon volkeri Engesser, 1987",
-Rodentia,Eomyidae,"Eomyops Engesser, 1979",
-Rodentia,Eomyidae,"Eomys Schlosser, 1884",
-Rodentia,Eomyidae,"Eomys antiquus Aymard, 1853",
-Rodentia,Eomyidae,"Eomys quercyi Comte & Vianey-Liaud, 1987",
-Rodentia,Eomyidae,"Eomys zitteli Schlosser, 1884",
-Rodentia,Eomyidae,"Keramidomys Hartenberger, 1966",
-Rodentia,Eomyidae,"Keramidomys carpathicus (Schaub & Zapfe, 1953)",
-Rodentia,Eomyidae,"Keramidomys thaleri Hugueney & Mein, 1968",
-Rodentia,Eomyidae,"Leptodontomys Shotwell, 1956",
-Rodentia,Eomyidae,"Ligerimys Stehlin & Schaub, 1951",
-Rodentia,Eomyidae,"Megapeomys lavocati Fejfar et al., 1998",
-Rodentia,Eomyidae,"Pseudotheridomys Schlosser, 1926",
-Rodentia,Eomyidae,"Rhodanomys hugueneyae Engesser, 1987",
-Rodentia,Eomyidae,"Rhodanomys latens Werner, 1994",
-Rodentia,Eomyidae,"Rhodanomys oscensis Alvarez Sierra, 1989",
-Rodentia,Eomyidae,"Rhodanomys transiens Hugueney, 1969",
-Rodentia,Eomyidae,"Ritteneria Stehlin & Schaub, 1951",
-Rodentia,Eomyidae,"Ritteneria molinae Alvarez Sierra, 1989",
-Rodentia,Eutypomyidae,"Anchitheriomys Roger, 1898",
-Rodentia,Eutypomyidae,"Anchitheriomys suevicus Schlosser, 1884",
-Rodentia,Gliridae,"Amphidyromys pusillus (Heller, 1936)",
-Rodentia,Gliridae,"Bransatoglis Hugueney, 1967",
-Rodentia,Gliridae,"Bransatoglis astaracensis (Baudelot, 1970)",
-Rodentia,Gliridae,"Bransatoglis concavidens Hugueney, 1967",
-Rodentia,Gliridae,"Bransatoglis fugax Hugueney, 1967",
-Rodentia,Gliridae,"Butseloglis tenuis (Bahlo, 1975)",
-Rodentia,Gliridae,"Dryomys Thomas, 1906",
-Rodentia,Gliridae,"Dryomys nitedula (Pallas, 1778)",
-Rodentia,Gliridae,"Eliomys Wagner, 1840",
-Rodentia,Gliridae,"Eliomys intermedius Priant, 1953",
-Rodentia,Gliridae,"Eliomys melanurus (Wagner, 1840)",
-Rodentia,Gliridae,"Eliomys quercinus (Linnaeus, 1766)",Garden Dormouse
-Rodentia,Gliridae,Eliomys quercinus quercinus,
-Rodentia,Gliridae,"Eliomys reductus Mayr, 1979",
-Rodentia,Gliridae,"Eomuscardinus sansaniensis Lartet, 1851",
-Rodentia,Gliridae,"Glamys priscus (Stehlin & Schaub, 1951)",
-Rodentia,Gliridae,"Gliravus majori Stehlin & Schaub, 1951",
-Rodentia,Gliridae,Gliridae,
-Rodentia,Gliridae,"Glirudinus De Bruijn, 1966",
-Rodentia,Gliridae,"Glirudinus eggingensis Werner, 1994",
-Rodentia,Gliridae,"Glirudinus glirulus Dehm, 1935",
-Rodentia,Gliridae,"Glirudinus undosus Mayr, 1979",
-Rodentia,Gliridae,"Glirulus diremptus Mayr, 1979",
-Rodentia,Gliridae,"Glis Brisson, 1762",
-Rodentia,Gliridae,"Glis glis (Linnaeus, 1766)","Edible Dormouse, Fat dormouse, Edible dormouse, edible dormouse, fat dormouse"
-Rodentia,Gliridae,"Glis minor Kowalski, 1956",
-Rodentia,Gliridae,"Glis sackdillingensis Heller, 1930",
-Rodentia,Gliridae,"Heissigia bolligeri Prieto & Böhme, 2007",
-Rodentia,Gliridae,"Heteromyoxus wetzleri (Schlosser, 1884)",
-Rodentia,Gliridae,"Microdyromys complicatus De Bruijn, 1966",
-Rodentia,Gliridae,"Microdyromys de Bruijn, 1966",
-Rodentia,Gliridae,"Microdyromys hildebrandti Werner, 1994",
-Rodentia,Gliridae,"Microdyromys legidensis Daams, 1981",
-Rodentia,Gliridae,"Microdyromys monspeliensis Aguilar, 1977",
-Rodentia,Gliridae,"Microdyromys praemurinus Freudenberg, 1941",
-Rodentia,Gliridae,"Miodyromys Kretzoi, 1943",
-Rodentia,Gliridae,"Miodyromys aegercii Baudelot, 1972",
-Rodentia,Gliridae,"Miodyromys hamadryas Forsyth Major, 1899",
-Rodentia,Gliridae,"Miodyromys vagus Mayr, 1979",
-Rodentia,Gliridae,"Muscardinus Kaup, 1829",
-Rodentia,Gliridae,"Muscardinus avellanarius (Linnaeus, 1758)",Hazel Dormouse
-Rodentia,Gliridae,"Muscardinus pliocaenicus Kowalski, 1963",
-Rodentia,Gliridae,"Muscardinus sansaniensis Lartet, 1856",
-Rodentia,Gliridae,"Myoglis Baudelot, 1966",
-Rodentia,Gliridae,"Myoglis larteti Baudelot, 1966",
-Rodentia,Gliridae,"Myoglis meini de Bruijn, 1966",
-Rodentia,Gliridae,"Myoxus glis (Linnaeus, 1766)",
-Rodentia,Gliridae,"Oligodyromys planus (Bahlo, 1975)",
-Rodentia,Gliridae,"Paraglirulus Engesser, 1972",
-Rodentia,Gliridae,"Paraglirulus agelakisi Van der Meulen & De Bruijn, 1982",
-Rodentia,Gliridae,"Paraglirulus werenfelsi Engesser, 1972",
-Rodentia,Gliridae,"Paraglis infralactorensis (Baudelot & Collier, 1982)",
-Rodentia,Gliridae,"Peridyromys Stehlin & Schaub, 1951",
-Rodentia,Gliridae,"Peridyromys murinus Pomel, 1853",
-Rodentia,Gliridae,"Peridyromys obtusangulus (von Meyer, 1859)",
-Rodentia,Gliridae,"Plesiodyromys toriformis Werner, 1994",
-Rodentia,Gliridae,"Prodryomys satus Mayr, 1979",
-Rodentia,Gliridae,"Pseudodryomys De Bruijn, 1966",
-Rodentia,Gliridae,"Pseudodryomys ibericus de Bruijn, 1966",
-Rodentia,Gliridae,"Schizogliravus bruijni (Hugueney, 1967)",
-Rodentia,Gliridae,"Schizogliravus micio (Misonne, 1957)",
-Rodentia,Gliridae,"Suevoglis wannemacheri Werner, 1994",
-Rodentia,Hystricidae,"Hystrix Linnaeus, 1758",porcupine
-Rodentia,Hystricidae,"Hystrix cristata Linnaeus, 1758",
-Rodentia,Ischyromyidae,"Ailuravus Rütimeyer, 1891",
-Rodentia,Ischyromyidae,"Ailuravus macrurus Weitzel, 1949",
-Rodentia,Ischyromyidae,"Ailuravus picteti Rütimeyer, 1891",
-Rodentia,Ischyromyidae,"Paracitellus Dehm, 1950",
-Rodentia,Ischyromyidae,"Plesiarctomys Bravard, 1848-52",
-Rodentia,Muridae,"Acomys russatus (Wagner, 1840)",
-Rodentia,Muridae,"Adelomyarion vireti Hugueney, 1969",
-Rodentia,Muridae,"Apodemus Kaup, 1829","Eurasian Field Mouse unknown, Eurasian field mouse"
-Rodentia,Muridae,"Apodemus agrarius (Pallas, 1771)","Striped Field Mouse, Striped field mouse, セスジネズミ"
-Rodentia,Muridae,"Apodemus alpicola Heinrich, 1952",
-Rodentia,Muridae,"Apodemus flavicollis (Melchior, 1834)","Yellow-Necked Mouse, Yellow-necked Field Mouse, Yellow-necked mouse, キクビアカネズミ"
-Rodentia,Muridae,"Apodemus sylvaticus (Linnaeus, 1758)","Bosmuis | Wood mouse | Mulot gris | Waldmaus | Skovmus, Long-tailed Field Mouse, Mindre skogsmus, Wood mouse, wood mouse"
-Rodentia,Muridae,"Apodemus sylvaticus spadix Fritsche, 1934",
-Rodentia,Muridae,"Arvicanthis abyssinicus (Rüppell, 1842)",
-Rodentia,Muridae,BOLD:AAA3964,
-Rodentia,Muridae,BOLD:AAA8775,
-Rodentia,Muridae,BOLD:AAB2207,
-Rodentia,Muridae,"Baranomys Kormos, 1934",
-Rodentia,Muridae,"Cricetodon aureus Mein & Freudenthal, 1971",
-Rodentia,Muridae,"Cricetodon jotae Mein & Freudenthal, 1971",
-Rodentia,Muridae,"Cricetodon jumaensis Rummel, 2001",
-Rodentia,Muridae,"Cricetodon meini Freudenthal, 1963",
-Rodentia,Muridae,"Cricetodon sansaniensis Lartet, 1851",
-Rodentia,Muridae,"Democricetodon Fahlbusch, 1964",
-Rodentia,Muridae,"Democricetodon affinis Schaub, 1925",
-Rodentia,Muridae,Democricetodon brevis,
-Rodentia,Muridae,"Democricetodon franconicus Fahlbusch, 1966",
-Rodentia,Muridae,"Democricetodon freisingensis Fahlbusch, 1964",
-Rodentia,Muridae,"Democricetodon gaillardi Schaub, 1925",
-Rodentia,Muridae,"Democricetodon minor (Lartet, 1851)",
-Rodentia,Muridae,"Democricetodon minor gracilis (Fahlbusch, 1964)",
-Rodentia,Muridae,"Democricetodon mutilus (Fahlbusch, 1964)",
-Rodentia,Muridae,"Democricetodon similis Fahlbusch, 1964",
-Rodentia,Muridae,"Deperetomys hagni (Fahlbusch, 1964)",
-Rodentia,Muridae,"Dolomys Nehring, 1898",
-Rodentia,Muridae,"Epimys norvegicus (Berkenhout, 1769)",
-Rodentia,Muridae,"Eucricetodon Thaler, 1966",
-Rodentia,Muridae,"Eucricetodon collatum (Schaub, 1925)",
-Rodentia,Muridae,"Eucricetodon gerandianus Gervais, 1848",
-Rodentia,Muridae,"Eucricetodon haslachensis Schaub, 1925",
-Rodentia,Muridae,"Eucricetodon longidens Hugueney, 1969",
-Rodentia,Muridae,"Eumyarion Thaler, 1966",
-Rodentia,Muridae,"Eumyarion bifidus (Fahlbusch, 1964)",
-Rodentia,Muridae,"Eumyarion latior Schaub & Zapfe, 1953",
-Rodentia,Muridae,"Eumyarion medius Lartet, 1851",
-Rodentia,Muridae,"Eumyarion weinfurteri Schaub & Zapfe, 1953",
-Rodentia,Muridae,"Fahlbuschia koenigswaldi Freudenthal, 1963",
-Rodentia,Muridae,"Lartetomys zapfei Mein & Freudenthal, 1971",
-Rodentia,Muridae,"Leidymys Wood, 1936",
-Rodentia,Muridae,"Lemniscomys barbarus (Linnaeus, 1767)",
-Rodentia,Muridae,"Megacricetodon Fahlbusch, 1964",
-Rodentia,Muridae,"Megacricetodon bavaricus (Fahlbusch, 1964)",
-Rodentia,Muridae,"Megacricetodon collongensis Mein, 1958",
-Rodentia,Muridae,"Megacricetodon debruijni Freudenthal, 1968",
-Rodentia,Muridae,"Megacricetodon gregarius (Schaub, 1925)",
-Rodentia,Muridae,"Megacricetodon lappi Mein, 1958",
-Rodentia,Muridae,"Megacricetodon minor Lartet, 1851",
-Rodentia,Muridae,"Megacricetodon similis Fahlbusch, 1964",
-Rodentia,Muridae,"Melissiodon chatticum Freudenberg, 1941",
-Rodentia,Muridae,"Melissiodon dominans Dehm, 1950",
-Rodentia,Muridae,"Melissiodon quercyi Schaub, 1920",
-Rodentia,Muridae,"Melissiodon schlosseri Schaub, 1925",
-Rodentia,Muridae,"Micromys Dehne, 1841",harvest mouse
-Rodentia,Muridae,"Micromys minutus (Pallas, 1771)",Eurasian Harvest Mouse
-Rodentia,Muridae,"Microtocricetus molassicus Fahlbusch & Mayr, 1975",
-Rodentia,Muridae,"Mimomys Forstyth Mayor, 1902",
-Rodentia,Muridae,"Mimomys occitanus Thaler, 1955",
-Rodentia,Muridae,"Mimomys pliocaenicus (Forsyth Major, 1889)",
-Rodentia,Muridae,Muridae,"Mouse, Murid unknown"
-Rodentia,Muridae,"Mus Linnaeus, 1758",house mouse
-Rodentia,Muridae,"Mus domesticus Rutty, 1772",Western house mouse
-Rodentia,Muridae,"Mus domesticus Schwartz & Schwartz, 1943",
-Rodentia,Muridae,"Mus minutoides A.Smith, 1834",
-Rodentia,Muridae,Mus muscularus,Oostelijke huismuis | Eastern house mouse | Souris grise | Hausmaus | Husmus
-Rodentia,Muridae,"Mus musculus Linnaeus, 1758",House Mouse
-Rodentia,Muridae,"Mus musculus domesticus Schwarz & Schwarz, 1943",Western European House Mouse
-Rodentia,Muridae,Mus musculus helgolandicus,
-Rodentia,Muridae,Mus musculus musculus,
-Rodentia,Muridae,"Mus spicilegus Petényi, 1882",
-Rodentia,Muridae,"Neocometes similis Fahlbusch, 1966",
-Rodentia,Muridae,"Neocricetodon polonicus (Fahlbusch, 1969)",
-Rodentia,Muridae,"Paracricetodon Schaub, 1925",
-Rodentia,Muridae,"Pliomys Méhely, 1914",
-Rodentia,Muridae,"Psammomys obesus Cretzschmar, 1828",
-Rodentia,Muridae,"Pseudocricetodon moguntiacus (Bahlo, 1975)",
-Rodentia,Muridae,"Pseudocricetodon philippi Hugueney, 1971",
-Rodentia,Muridae,"Pseudocricetodon thaleri Hugueney, 1969",
-Rodentia,Muridae,"Rattus Fischer, 1803",Rat
-Rodentia,Muridae,"Rattus norvegicus (Berkenhout, 1769)","Brown Rat, Brown rat"
-Rodentia,Muridae,"Rattus rattus (Linnaeus, 1758)","Black rat, Ship rat, Roof Rat"
-Rodentia,Muridae,Rattus rattus rattus,
-Rodentia,Muridae,"Rhagapodemus Kretzoi, 1959",
-Rodentia,Muridae,"Stachomys Kowalski, 1960",
-Rodentia,Muridae,"Sylvaemus Ognev, 1924",
-Rodentia,Muridae,"Trilophomys Depéret, 1892",
-Rodentia,Muridae,"Trilophomys schaubi Fejfar, 1961",
-Rodentia,Myocastoridae,"Myocastor coypus (Molina, 1782)","Coypu, Nutria"
-Rodentia,Nesomyidae,"Petromyscus barbouri Shortridge & Carter, 1938",
-Rodentia,Nesomyidae,"Steatomys krebsii Peters, 1852",
-Rodentia,Octodontidae,"Octodon degus (Molina, 1782)",
-Rodentia,Pseudosciuridae,"Pseudosciurus Hensel, 1856",
-Rodentia,Rhizospalacidae,"Rhizospalax Matthew & Gidley, 1919",
-Rodentia,Sciuridae,"Albanensia Daxner-Hock & Mein, 1975",
-Rodentia,Sciuridae,BOLD:AAE9374,
-Rodentia,Sciuridae,"Blackia Mein, 1970",
-Rodentia,Sciuridae,"Blackia ulmensis Werner, 1994",
-Rodentia,Sciuridae,"Callosciurus inornatus (Gray, 1867)",
-Rodentia,Sciuridae,"Citellus citellus (Linnaeus, 1766)",
-Rodentia,Sciuridae,"Cynomys ludovicianus (Ord, 1815)",
-Rodentia,Sciuridae,"Eutamias sibiricus (Laxmann, 1769)",Siberian Chipmunk
-Rodentia,Sciuridae,"Forsythia Mein, 1970",
-Rodentia,Sciuridae,"Heliosciurus punctatus (Temminck, 1853)",
-Rodentia,Sciuridae,"Heteroxerus Stehlin & Schaub, 1951",
-Rodentia,Sciuridae,"Hylopetes Thomas, 1908",
-Rodentia,Sciuridae,"Marmota Blumenbach, 1779",
-Rodentia,Sciuridae,"Marmota marmota (Linnaeus, 1758)",Alpine Marmot
-Rodentia,Sciuridae,"Miopetaurista Kretzoi, 1962",
-Rodentia,Sciuridae,"Miopetaurista albanensis Major, 1893",
-Rodentia,Sciuridae,"Miopetaurista dehmi de Bruijn et al., 1980",
-Rodentia,Sciuridae,"Miopetaurista lappi Mein, 1958",
-Rodentia,Sciuridae,"Palaeosciurus feignouxi Pomel, 1953",
-Rodentia,Sciuridae,"Palaeosciurus goti Vianey-Liaud, 1974",
-Rodentia,Sciuridae,"Palaeosciurus sutteri Ziegler & Fahlbusch, 1986",
-Rodentia,Sciuridae,"Pliopetaurista Kretzoi, 1962",
-Rodentia,Sciuridae,"Ratufa Gray, 1867",Asian giant squirrel
-Rodentia,Sciuridae,Sciuridae,"Squirrel unknown, squirrel"
-Rodentia,Sciuridae,"Sciurus Linnaeus, 1758",squirrel
-Rodentia,Sciuridae,"Sciurus aureogaster F.Cuvier, 1829",
-Rodentia,Sciuridae,"Sciurus carolinensis Gmelin, 1788",
-Rodentia,Sciuridae,"Sciurus giganteus (Freudenberg, 1941)",
-Rodentia,Sciuridae,"Sciurus niger Linnaeus, 1758",
-Rodentia,Sciuridae,"Sciurus vulgaris Linnaeus, 1758","Eurasian Red Squirrel, Eurasian red squirrel, Red squirrel, Rode eekhoorn | Red squirrel | Écureuil | Eichhörnchen | Egern"
-Rodentia,Sciuridae,"Sciurus vulgaris fuscoater Altum, 1876",
-Rodentia,Sciuridae,"Sciurus vulgaris varius Gmelin, 1789",
-Rodentia,Sciuridae,Sciurus vulgaris vulgaris,
-Rodentia,Sciuridae,"Spermophilinus besanus Cuenca, 1988",
-Rodentia,Sciuridae,"Spermophilinus bredai (von Meyer, 1848)",
-Rodentia,Sciuridae,"Spermophilus F.Cuvier, 1825",ground squirrel
-Rodentia,Sciuridae,"Spermophilus citellus (Linnaeus, 1766)",
-Rodentia,Sciuridae,Spermophilus citellus citellus,
-Rodentia,Sciuridae,"Tamias Illiger, 1811",chipmunk
-Rodentia,Sciuridae,"Tamias sibiricus (Laxmann, 1769)",
-Rodentia,Sciuridae,"Tamias striatus (Linnaeus, 1758)",Eastern Chipmunk
-Rodentia,Sciuridae,"Tamiasciurus hudsonicus (Erxleben, 1777)",
-Rodentia,Sciuridae,"Tamiops J.A.Allen, 1906",
-Rodentia,Theridomyidae,"Archaeomys Laizer & Parieu, 1839",
-Rodentia,Theridomyidae,"Blainvillimys helmeri (Vianey-Liaud, 1972)",
-Rodentia,Theridomyidae,"Isoptychus Pomel, 1852",
-Rodentia,Theridomyidae,"Oltinomys Stehlin, 1942",
-Rodentia,Theridomyidae,"Suevosciurus Dehm, 1937",
-Rodentia,Theridomyidae,"Suevosciurus fraasi (Major, 1873)",
-Rodentia,Theridomyidae,Theridomyidae,
-Rodentia,Theridomyidae,"Theridomys Jourdan, 1837",
-Rodentia,Theridomyidae,"Toeniodus hexalophodus Bahlo, 1975",
-Scandentia,Tupaiidae,"Tupaia montana Thomas, 1892",
-Sirenia,Dugongidae,Dugongidae,dugong
-Sirenia,Dugongidae,"Halianassa studeri (Meyer, 1837)",
-Sirenia,Dugongidae,"Halitherium Kaup, 1838",
-Sirenia,Dugongidae,"Halitherium bronni (Krauss, 1858)",
-Sirenia,Dugongidae,"Halitherium schinzii (Kaup, 1838) Kaup, 1855",
-Sirenia,Dugongidae,"Kaupitherium gruelli Voss & Hampe, 2017",
-Sirenia,Dugongidae,"Metaxitherium Dilg, 1909",
-Sirenia,Dugongidae,"Metaxytherium Christol, 1840",
-Sirenia,Dugongidae,"Metaxytherium medium (Desmarest, 1822) Hooijer, 1952",
-Sirenia,Dugongidae,"Prototherium veronense (Zigno, 1875) Zigno, 1887",
-Sirenia,Protosirenidae,"Protosiren fraasi Abel, 1907",
-Sirenia,Trichechidae,"Anomotherium langewieschei Siegfried, 1965",
-Soricomorpha,Nyctitheriidae,"Saturninia carbonum Sigé & Storch, 2001",
-Soricomorpha,Plesiosoricidae,"Butselia biveri Quinet & Misonne, 1965",
-Soricomorpha,Plesiosoricidae,"Plesiosorex Pomel, 1848",
-Soricomorpha,Plesiosoricidae,"Plesiosorex germanicus (Seemann, 1938)",
-Soricomorpha,Plesiosoricidae,"Plesiosorex schaffneri Engesser, 1972",
-Soricomorpha,Plesiosoricidae,"Plesiosorex soricinoides (Blainville, 1838)",
-Soricomorpha,Soricidae,"Alloblarinella europaea (Reumer, 1984)",
-Soricomorpha,Soricidae,"Allosorex gracilidens (Viret & Zapfe, 1951)",
-Soricomorpha,Soricidae,"Angustidens excultus Mayr & Fahlbusch, 1975",
-Soricomorpha,Soricidae,"Asoriculus Kretzoi, 1959",
-Soricomorpha,Soricidae,BOLD:AAD8808,
-Soricomorpha,Soricidae,BOLD:AAK7921,
-Soricomorpha,Soricidae,BOLD:AAU0558,
-Soricomorpha,Soricidae,"Beremendia Kormos, 1930",
-Soricomorpha,Soricidae,"Carposorex Crochet, 1975",
-Soricomorpha,Soricidae,"Crocidosorex Lavocat, 1951",
-Soricomorpha,Soricidae,"Crocidura Wagler, 1832",
-Soricomorpha,Soricidae,"Crocidura gueldenstaedtii (Pallas, 1811)",
-Soricomorpha,Soricidae,"Crocidura leucodon (Hermann, 1780)","Bicolored White-toothed Shrew, Bicoloured White-toothed Shrew, bicolored shrew, Bicoloured White-toothed Shrew"
-Soricomorpha,Soricidae,"Crocidura russula (Hermann, 1780)","Greater White-toothed Shrew, White-toothed Shrew"
-Soricomorpha,Soricidae,Crocidura russula russula,
-Soricomorpha,Soricidae,"Crocidura suaveolens (Pallas, 1811)",Lesser White-toothed Shrew
-Soricomorpha,Soricidae,"Crusafontina kormosi (Bachmayer & Wilson, 1970)",
-Soricomorpha,Soricidae,"Deinsdorfia Heller, 1963",
-Soricomorpha,Soricidae,"Florinia stehlini (Doben-Florin, 1964)",
-Soricomorpha,Soricidae,"Hemisorex Baudelot, 1967",
-Soricomorpha,Soricidae,"Lartetium Ziegler, 1989",
-Soricomorpha,Soricidae,"Lartetium petersbuchense Ziegler, 1989",
-Soricomorpha,Soricidae,"Miosorex Kretzoi, 1959",
-Soricomorpha,Soricidae,"Miosorex grivensis Depéret, 1892",
-Soricomorpha,Soricidae,"Miosorex pusilliformis (Doben-Florin, 1964)",
-Soricomorpha,Soricidae,"Neomys Kaup, 1829",water shrew
-Soricomorpha,Soricidae,"Neomys anomalus Cabrera, 1907",Southern Water Shrew
-Soricomorpha,Soricidae,"Neomys anomalus milleri Mottaz, 1907",
-Soricomorpha,Soricidae,"Neomys fodiens (Pennant, 1771)","Eurasian Water Shrew, Vattennäbbmus"
-Soricomorpha,Soricidae,Neomys fodiens fodiens,
-Soricomorpha,Soricidae,"Neomys milleri Mottaz, 1907",
-Soricomorpha,Soricidae,"Oligosorex Kretzoi, 1959",
-Soricomorpha,Soricidae,"Paenelimnoecus crouzeli Baudelot, 1972",
-Soricomorpha,Soricidae,"Paenelimnoecus micromorphus (Dobin-Florin, 1964)",
-Soricomorpha,Soricidae,"Paenesorex bicuspis Ziegler, 2003",
-Soricomorpha,Soricidae,"Parasorex Meyer, 1865",
-Soricomorpha,Soricidae,"Petenyia dubia Bachmayer & Wilson, 1970",
-Soricomorpha,Soricidae,"Sorex Linnaeus, 1758",long-tailed shrew
-Soricomorpha,Soricidae,"Sorex alpinus Schinz, 1837",Alpine Shrew
-Soricomorpha,Soricidae,"Sorex araneus Linnaeus, 1758","Common Shrew, Common Shrew / Crowned Shrew, Common shrew, Vanlig näbbmus, common shrew, eurasian shrew"
-Soricomorpha,Soricidae,"Sorex coronatus Millet, 1828",Crowned Shrew
-Soricomorpha,Soricidae,"Sorex minutus Linnaeus, 1766","Dvärgnäbbmus, Eurasian Pygmy Shrew, Eurasian Pygmy Shrew, Pygmy Shrew, Pygmy shrew"
-Soricomorpha,Soricidae,"Sorex praealpinus Heller, 1930",
-Soricomorpha,Soricidae,"Sorex runtonensis Hinton, 1911",
-Soricomorpha,Soricidae,"Soricella Doben-Florin, 1964",
-Soricomorpha,Soricidae,"Soricella discrepans Doben-Florin, 1964",
-Soricomorpha,Soricidae,Soricidae,"Shrew, red-toothed shrew, shrew"
-Soricomorpha,Soricidae,"Srinitium caeruleum Ziegler, 1998",
-Soricomorpha,Soricidae,"Surdisorex Thomas, 1906",
-Soricomorpha,Soricidae,"Ulmensia antecedens Ziegler, 1998",
-Soricomorpha,Soricidae,"Ulmensia ehrensteinensis Ziegler, 1989",
-Soricomorpha,Talpidae,"Archaeodesmana vinea (Storch, 1978)",
-Soricomorpha,Talpidae,"Asthenoscapter Hutchison, 1974",
-Soricomorpha,Talpidae,"Desmana Güldenstädt, 1777",Russian desman
-Soricomorpha,Talpidae,"Desmana moschata (Linnaeus, 1758)",
-Soricomorpha,Talpidae,"Desmana thermalis Kormos, 1930",
-Soricomorpha,Talpidae,"Desmanella Engesser, 1972",
-Soricomorpha,Talpidae,"Desmanella engesseri Ziegler, 1985",
-Soricomorpha,Talpidae,"Desmanella gudrunae van den Hoek Ostende & Fejfar, 2006",
-Soricomorpha,Talpidae,"Desmanella quinquecuspidata Mayr & Fahlbusch, 1975",
-Soricomorpha,Talpidae,"Desmanella rietscheli Storch & Dahlmann, 2000",
-Soricomorpha,Talpidae,"Desmanella stehlini Engesser, 1972",
-Soricomorpha,Talpidae,"Desmanodon antiquus Ziegler, 1985",
-Soricomorpha,Talpidae,"Desmanodon crocheti Prieto, 2010",
-Soricomorpha,Talpidae,"Geotrypus Pomel, 1848",
-Soricomorpha,Talpidae,"Geotrypus antiquus (de Blainville, 1840)",
-Soricomorpha,Talpidae,"Geotrypus ehrensteinensis Ziegler, 1990",
-Soricomorpha,Talpidae,"Geotrypus montisasini Ziegler, 1990",
-Soricomorpha,Talpidae,"Geotrypus tomerdingensis (Tobien, 1939)",
-Soricomorpha,Talpidae,"Hugueneya primitiva (Hutchison, 1974)",
-Soricomorpha,Talpidae,"Leptoscaptor bavaricum Ziegler, 2003",
-Soricomorpha,Talpidae,"Leptoscaptor robustior Ziegler, 2003",
-Soricomorpha,Talpidae,"Mygalea antiqua Pomel, 1848",
-Soricomorpha,Talpidae,"Mygalea jaegeri (Seemann, 1938)",
-Soricomorpha,Talpidae,"Mygalea magna Ziegler, 1990",
-Soricomorpha,Talpidae,"Mygatalpa Schreuder, 1940",
-Soricomorpha,Talpidae,"Myxomygale antiqua Filhol, 1890",
-Soricomorpha,Talpidae,"Myxomygale engesseri Doukas, 1986",
-Soricomorpha,Talpidae,"Myxomygale gracilis Ziegler, 2003",
-Soricomorpha,Talpidae,"Myxomygale hutchisoni (Ziegler, 1985)",
-Soricomorpha,Talpidae,"Paratalpa brachychir (v.Meyer, 1846)",
-Soricomorpha,Talpidae,"Paratalpa meyeri (Schlosser, 1877)",
-Soricomorpha,Talpidae,"Paratalpa micheli Lavocat, 1951",
-Soricomorpha,Talpidae,"Proscapanus Gaillard, 1899",
-Soricomorpha,Talpidae,"Proscapanus intercedens Ziegler, 1985",
-Soricomorpha,Talpidae,"Proscapanus sansaniensis Lartet, 1851",
-Soricomorpha,Talpidae,"Scaptonyx Milne-Edwards, 1872",Long-tailed mole
-Soricomorpha,Talpidae,"Scaptonyx edwardsi Gaillard, 1899",
-Soricomorpha,Talpidae,"Talpa Linnaeus, 1758",
-Soricomorpha,Talpidae,"Talpa caeca Savi, 1822",
-Soricomorpha,Talpidae,"Talpa episcopalis Kormos, 1930",
-Soricomorpha,Talpidae,"Talpa europaea Linnaeus, 1758","Common mole, European Mole, Mullvad"
-Soricomorpha,Talpidae,"Talpa europaea cinerea Gmelin, 1788",
-Soricomorpha,Talpidae,Talpa europaea europaea,
-Soricomorpha,Talpidae,"Talpa fossilis Petenyi, 1864",
-Soricomorpha,Talpidae,"Talpa gilothi Storch, 1978",
-Soricomorpha,Talpidae,"Talpa minor Freudenberg, 1914",
-Soricomorpha,Talpidae,"Talpa minuta Blainville, 1840",
-Soricomorpha,Talpidae,"Talpa tenuidentata Ziegler, 1990",
-Soricomorpha,Talpidae,"Talpa vallesensis Villalta & Crusafont, 1944",
-Soricomorpha,Talpidae,Talpidae,"Mole, mole"
-Soricomorpha,Talpidae,"Tenuibrachiatum storchi Ziegler, 2003",
-Soricomorpha,Talpidae,"Urotrichus dolichochir (Gaillard, 1899)",
+species
+Aceratherium incisivum
+Aceratherium incisivus
+Acinonyx jubatus
+Acomys russatus
+Addax nasomaculatus
+Adelomyarion vireti
+Ailuravus macrurus
+Ailuravus picteti
+Ailuropoda melanoleuca
+Alces alces
+Alloblarinella europaea
+Allohyaena kadici
+Allosorex gracilidens
+Ammotragus lervia
+Amphechinus arvernensis
+Amphechinus edwardsi
+Amphictis borbonica
+Amphictis prolongata
+Amphictis schlosseri
+Amphicyon major
+Amphilemur eocaenicus
+Amphiperatherium exile
+Amphiperatherium frequens
+Amphitragulus quercyi
+Anchitheriomys suevicus
+Anchitherium aurelianense
+Angustictis mayri
+Angustidens excultus
+Anomalomys gaudryi
+Anomalomys minor
+Anomalomys minutus
+Anomotherium langewieschei
+Ansomys descendens
+Antilope cervicapra
+Apeomys tuerkheimae
+Aplodontia rufa
+Apodemus agrarius
+Apodemus alpicola
+Apodemus flavicollis
+Apodemus sylvaticus
+Archaeodesmana vinea
+Arvicanthis abyssinicus
+Arvicola amphibius
+Arvicola sapidus
+Arvicola scherman
+Arvicola terrestris
+Atelerix albiventris
+Atelerix algirus
+Atelerix frontalis
+Ateles belzebuth
+Axis axis
+Babyrousa babyrussa
+Bachitherium curtum
+Bachitherium lavocati
+Balaena mysticetus
+Balaenoptera acutorostrata
+Balaenoptera borealis
+Balaenoptera physalus
+Barbastella barbastellus
+Bison bison
+Bison bonasus
+Blackia ulmensis
+Blainvillimys helmeri
+Bos gaurus
+Bos grunniens
+Bos primigenius
+Bos priscus
+Bos spec
+Bos taurus
+Boselaphus tragocamelus
+Brachylagus idahoensis
+Brachypotherium brachypus
+Bransatoglis astaracensis
+Bransatoglis concavidens
+Bransatoglis fugax
+Bransatoglis planus
+Bubalus arnee
+Bubalus bubalis
+Budorcas taxicolor
+Bustylus cernaysi
+Bustylus germanicus
+Butselia biveri
+Butseloglis tenuis
+Cainotherium bavaricum
+Cainotherium huerzeleri
+Callimico goeldii
+Callosciurus inornatus
+Caluromys philander
+Camelus bactrianus
+Camelus dromedarius
+Canis aureus
+Canis familiaris
+Canis latrans
+Canis lupus
+Canis spec
+Capra aegagrus
+Capra caucasica
+Capra falconeri
+Capra hircus
+Capra ibex
+Capreolus capreolus
+Castor canadensis
+Castor fiber
+Cavia porcellus
+Cebochoerus jaegeri
+Cebochoerus ruetimeyeri
+Cecilionycteris prisca
+Cephalophus silvicultor
+Ceratotherium simum
+Cercopithecus roloway
+Cervalces latifrons
+Cervus anocerus
+Cervus bertholdi
+Cervus curtocerus
+Cervus dicranocerus
+Cervus elaphus
+Cervus nippon
+Cervus spec
+Chainodus eggingensis
+Chainodus intercedens
+Chainodus sulcatus
+Chainodus ulmensis
+Chalicotherium antiquum
+Chalicotherium goldfussi
+Chionomys nivalis
+Choeropotamus parisiensis
+Choloepus didactylus
+Coelodonta antiquitatis
+Conohyus huenermanni
+Cordylodon haslachensis
+Cricetodon aureus
+Cricetodon gregarius
+Cricetodon hagni
+Cricetodon jotae
+Cricetodon jumaensis
+Cricetodon meini
+Cricetodon sansaniensis
+Cricetulus migratorius
+Cricetulus spec
+Cricetus cricetus
+Cricetus frumentarius
+Crocidura gueldenstaedtii
+Crocidura leucodon
+Crocidura russula
+Crocidura suaveolens
+Crocuta crocuta
+Crocuta spelaea
+Croizetoceros ramosus
+Crusafontina kormosi
+Cryptomeryx gaudryi
+Cryptoprocta ferox
+Ctenodactylus gundi
+Cuon alpinus
+Cynomys ludovicianus
+Dacrytherium ovinum
+Dama dama
+Darwinius masillae
+Deinotherium giganteum
+Delphinapterus leucas
+Delphinus delphis
+Democricetodon affinis
+Democricetodon bavaricus
+Democricetodon brevis
+Democricetodon franconicus
+Democricetodon freisingensis
+Democricetodon gaillardi
+Democricetodon minor
+Democricetodon mutilus
+Democricetodon similis
+Dendrolagus goodfellowi
+Desmana moschata
+Desmana thermalis
+Desmanella engesseri
+Desmanella gudrunae
+Desmanella quinquecuspidata
+Desmanella rietscheli
+Desmanella stehlini
+Desmanodon antiquus
+Desmanodon crocheti
+Dicerorhinus etruscus
+Dicerorhinus hemitoechus
+Dicerorhinus mercki
+Diceros bicornis
+Dichobune fraasi
+Dicrocerus elegans
+Dihoplus kirchbergensis
+Dihoplus schleiermacheri
+Dimyloides stehlini
+Dimyloides vireti
+Dimylus paradoxus
+Diplobune bavarica
+Diplobune quercyi
+Dolichotis patagonum
+Dorcatherium crassum
+Dorcatherium guntianum
+Dorcatherium naui
+Dorcatherium vindobonense
+Dremotherium guthi
+Dromoceratherium mirallesi
+Dryomys nitedula
+Echinops telfairi
+Eggysodon osborni
+Elephantulus intufi
+Elephantulus rozeti
+Elephas maximus
+Eliomys intermedius
+Eliomys melanurus
+Eliomys quercinus
+Eliomys reductus
+Elomeryx borbonicus
+Enhydra lutris
+Eomyodon mayoi
+Eomyodon pusillus
+Eomyodon volkeri
+Eomys antiquus
+Eomys quercyi
+Eomys zitteli
+Eosqualodon bariensis
+Eosqualodon langewieschei
+Ephemeromys hospes
+Epiaceratherium magnum
+Eptesicus aurelianensis
+Eptesicus campanensis
+Eptesicus nilssonii
+Eptesicus serotinus
+Equus asinus
+Equus caballus
+Equus ferus
+Equus hemionus
+Equus hydruntinus
+Equus kiang
+Equus przewalskii
+Equus quagga
+Equus stenonis
+Equus taubachensis
+Eqvus spec
+Erinaceus concolor
+Erinaceus europaeus
+Erinaceus roumanicus
+Erythrocebus patas
+Eschrichtius robustus
+Eubalaena australis
+Eubalaena glacialis
+Eucricetodon collatum
+Eucricetodon gerandianus
+Eucricetodon haslachensis
+Eucricetodon longidens
+Eulemur macaco
+Eumyarion bifidus
+Eumyarion latior
+Eumyarion medius
+Eumyarion weinfurteri
+Eurohippus parvulus
+Europolemur klatti
+Europolemur koenigswaldi
+Eusmilus bidentatus
+Eusmilus villebramarensis
+Exoedaenodus schaubi
+Fahlbuschia koenigswaldi
+Felis aphanista
+Felis catus
+Felis domesticus
+Felis prisca
+Felis silvestris
+Felis spec
+Florinia stehlini
+Franconictis vireti
+Galea musteloides
+Galerix aurelianensis
+Galerix symeonidisi
+Gelocus laubei
+Gelocus villebramarensis
+Genetta genetta
+Genetta servalina
+Genetta thierryi
+Geotrypus antiquus
+Geotrypus ehrensteinensis
+Geotrypus montisasini
+Geotrypus tomerdingensis
+Giraffa camelopardalis
+Giraffa giraffa
+Glamys priscus
+Gliravus bruijni
+Gliravus majori
+Glirudinus eggingensis
+Glirudinus glirulus
+Glirudinus undosus
+Glirulus diremptus
+Glirulus pusillus
+Glis giglis
+Glis glis
+Glis minor
+Glis sackdillingensis
+Globicephala karsteni
+Globicephala melas
+Gomphotherium angustidens
+Gorilla gorilla
+Goupilictis minor
+Gulo gulo
+Halichoerus grypus
+Halitherium schinzii
+Haplobunodon muelleri
+Haplobunodon solodurense
+Heissigia bolligeri
+Heliosciurus punctatus
+Helogale parvula
+Hemiechinus auritus
+Herpestides antiquus
+Herpestides compactus
+Heterocephalus glaber
+Heteromyoxus wetzleri
+Hexaprotodon liberiensis
+Hipparion gracile
+Hippopotamodon antiquus
+Hippopotamus amphibius
+Hippotragus niger
+Homo heidelbergensis
+Homo neanderthalensis
+Homo sapiens
+Hoploaceratherium tetradactylum
+Hoplocetus crassidens
+Hoplocetus ritzi
+Hyaena perrieri
+Hydrochoerus hydrochaeris
+Hylobates lar
+Hyotherium soemmeringi
+Hyperdichobune hammeli
+Hyperoodon ampullatus
+Hypsugo savii
+Hystrix cristata
+Karydomys wigharti
+Kaupitherium bronni
+Kaupitherium gruelli
+Kentriodon hoepfneri
+Keramidomys carpathicus
+Keramidomys thaleri
+Lagenorhynchus acutus
+Lagenorhynchus albirostris
+Lagomeryx ruetimeyeri
+Lagopsis verus
+Lama glama
+Lama guanicoe
+Lanthanotherium sanmigueli
+Lartetium petersbuchense
+Lartetomys zapfei
+Lemmus lemmus
+Lemniscomys barbarus
+Lemur catta
+Leopardus pardalis
+Leptictidium auderiense
+Leptictidium listeri
+Leptictidium nasutum
+Leptictidium tobieni
+Leptoscaptor bavaricum
+Leptoscaptor robustior
+Lepus capensis
+Lepus castroviejoi
+Lepus europaeus
+Lepus spec
+Lepus starcki
+Lepus timidus
+Lontra canadensis
+Lophallomys atavus
+Lophiodon filholi
+Lophiodon leptorhynchum
+Lophiodon remensis
+Lophiotherium pygmaeus
+Loris lydekkerianus
+Loxodonta africana
+Lutra lutra
+Lutra simplicidens
+Lutzia eckfeldensis
+Lynx lynx
+Lynx rufus
+Macaca fuscata
+Macaca silenus
+Macaca sylvanus
+Macropus giganteus
+Macropus robustus
+Macropus rufogriseus
+Macropus rufus
+Macroscelides proboscideus
+Madoqua kirkii
+Mammuthus meridionalis
+Mammuthus primigenius
+Mammuthus trogontherii
+Mandrillus leucophaeus
+Mandrillus sphinx
+Marmota marmota
+Martes flavigula
+Martes foina
+Martes martes
+Martes spec
+Mastodon turicensis
+Megacricetodon collongensis
+Megacricetodon debruijni
+Megacricetodon lappi
+Megacricetodon minor
+Megacricetodon similis
+Megacricetodon yei
+Megaderma franconica
+Megaloceros giganteus
+Megamphicyon giganteus
+Megantereon ogygia
+Megapeomys lavocati
+Megaptera novaeangliae
+Meles meles
+Melissiodon chatticum
+Melissiodon dominans
+Melissiodon quercyi
+Melissiodon schlosseri
+Mephitis mephitis
+Mesocricetus auratus
+Mesoplodon bidens
+Messelobunodon ceciliensis
+Metacordylodon schlosseri
+Metaxytherium medium
+Metaxytherium studeri
+Microcetus ambiguus
+Microdyromys complicatus
+Microdyromys hildebrandti
+Microdyromys legidensis
+Microdyromys monspeliensis
+Microdyromys praemurinus
+Micromys minutus
+Micromysticetus tobieni
+Microtocricetus molassicus
+Microtus agrestis
+Microtus arvalis
+Microtus bavaricus
+Microtus miurus
+Microtus oeconomus
+Microtus subterraneus
+Mimomys occitanus
+Mimomys pliocaenicus
+Miniopterus schreibersii
+Miodyromys aegercii
+Miodyromys hamadryas
+Miodyromys vagus
+Mioechinus sansaniensis
+Miopetaurista albanensis
+Miopetaurista dehmi
+Miopetaurista lappi
+Miosorex grivensis
+Miosorex pusilliformis
+Miostrellus risgoviensis
+Mirrabella tuberosa
+Mixocricetodon dehmi
+Molassitherium delemontense
+Monodelphis domestica
+Monodon monoceros
+Mungos mungo
+Muntiacus reevesi
+Mus domesticus
+Mus minutoides
+Mus musculus
+Mus spicilegus
+Muscardinus avellanarius
+Muscardinus pliocaenicus
+Muscardinus sansaniensis
+Mustela erminea
+Mustela eversmanii
+Mustela furo
+Mustela lutreola
+Mustela minuta
+Mustela nivalis
+Mustela putorius
+Mustela vison
+Mygalea antiqua
+Mygalea jaegeri
+Mygalea magna
+Myocastor coypus
+Myodes glareolus
+Myodes rufocanus
+Myodes rutilus
+Myoglis larteti
+Myoglis meini
+Myotis alcathoe
+Myotis bechsteinii
+Myotis blythii
+Myotis brandtii
+Myotis dasycneme
+Myotis daubentonii
+Myotis emarginatus
+Myotis insularum
+Myotis myotis
+Myotis mystacinus
+Myotis nattereri
+Myotis oxygnathus
+Myotis spec
+Myrmecophaga tridactyla
+Myxomygale antiqua
+Myxomygale engesseri
+Myxomygale gracilis
+Myxomygale hutchisoni
+Napaeozapus insignis
+Neocometes similis
+Neocricetodon polonicus
+Neodon irene
+Neomys anomalus
+Neomys fodiens
+Neomys milleri
+Neufferia manderscheidi
+Nimravus intermedius
+Nyctalus aviator
+Nyctalus lasiopterus
+Nyctalus leisleri
+Nyctalus noctula
+Nyctereutes procyonoides
+Octodon degus
+Odobenus rosmarus
+Odocoileus virginianus
+Okapia johnstoni
+Ondatra zibethicus
+Orcinus orca
+Oryctolagus cuniculus
+Orygotherium escheri
+Oryx gazella
+Ovibos moschatus
+Ovis ammon
+Ovis aries
+Ovis gmelini
+Ovis gmelinii
+Pachycynodon spec
+Paenelimnoecus crouzeli
+Paenelimnoecus micromorphus
+Paenesorex bicuspis
+Pagophilus groenlandicus
+Palaeogale praehyaenoides
+Palaeoloxodon antiquus
+Palaeomeryx kaupi
+Palaeosciurus feignouxi
+Palaeosciurus goti
+Palaeosciurus sutteri
+Palaeotherium castrense
+Palaeotherium isselanum
+Pan paniscus
+Pan troglodytes
+Panthera gombaszoegensis
+Panthera leo
+Panthera pardus
+Panthera spelaea
+Panthera tigris
+Paraglirulus agelakisi
+Paraglirulus werenfelsi
+Paraglis infralactorensis
+Paralophiodon buxovillanum
+Paraloris bavaricus
+Paratalpa brachychir
+Paratalpa meyeri
+Paratalpa micheli
+Paratapirus intermedius
+Paroxacron bergeri
+Pecari tajacu
+Pelea capreolus
+Peratherium giselense
+Peridyromys murinus
+Peridyromys obtusangulus
+Petenyia dubia
+Petromyscus barbouri
+Phacochoerus africanus
+Phoca vitulina
+Phocoena phocoena
+Phocoenoides dalli
+Physeter macrocephalus
+Physeterula dubusii
+Pipistrellus abramus
+Pipistrellus kuhlii
+Pipistrellus nathusii
+Pipistrellus pipistrellus
+Pipistrellus pygmaeus
+Pipistrellus spec
+Plagiolophus codiciensis
+Plagiolophus minor
+Plecotus auritus
+Plecotus austriacus
+Plesiadapis tricuspidens
+Plesiadapis walbeckensis
+Plesiodimylus bavaricus
+Plesiodimylus chantrei
+Plesiodyromys toriformis
+Plesiomeryx cadurcensis
+Plesiomeryx huerzeleri
+Plesiosminthus myarion
+Plesiosminthus schaubi
+Plesiosorex germanicus
+Plesiosorex schaffneri
+Plesiosorex soricinoides
+Plesispermophilus angustidens
+Plesispermophilus ernii
+Plesispermophilus macrodon
+Pliopithecus antiquus
+Potamotherium miocenicum
+Potamotherium vallentoni
+Praemegaptera pampauensis
+Praeovibos priscus
+Prionailurus viverrinus
+Proailurus lemanensis
+Procavia capensis
+Procyon cancrivorus
+Procyon lotor
+Prodeinotherium bavaricum
+Prodryomys satus
+Profelis aurata
+Prolagus oeningensis
+Prolouisina atavella
+Propalaeotherium hassiacum
+Propalaeotherium voigti
+Prosansanosmilus peregrinus
+Prosantorhinus douvillei
+Prosantorhinus germanicus
+Proscapanus intercedens
+Proscapanus primitiva
+Proscapanus sansaniensis
+Protapirus bavaricus
+Protapirus priscus
+Proteles cristata
+Protosiren fraasi
+Prototherium veronense
+Psammomys obesus
+Pseudaelurus lorteti
+Pseudaelurus quadridentatus
+Pseudaelurus romieviensis
+Pseudocricetodon moguntiacus
+Pseudocricetodon philippi
+Pseudocricetodon thaleri
+Pseudocyon steinheimensis
+Pseudodryomys ibericus
+Pteropus niger
+Puma concolor
+Pusa hispida
+Quercygale helvetica
+Rangifer tarandus
+Rattus norvegicus
+Rattus rattus
+Redunca fulvorufula
+Rhagatherium kowalevskyi
+Rhinoceros goldfussii
+Rhinoceros minutus
+Rhinolophus blasii
+Rhinolophus dehmi
+Rhinolophus delphinensis
+Rhinolophus euryale
+Rhinolophus ferrumequinum
+Rhinolophus hipposideros
+Rhodanomys hugueneyae
+Rhodanomys latens
+Rhodanomys oscensis
+Rhodanomys transiens
+Ritteneria molinae
+Ronzotherium filholi
+Rupicapra pyrenaica
+Rupicapra rupicapra
+Rupicapra tragus
+Rusa alfredi
+Saguinus imperator
+Saguinus oedipus
+Sapajus apella
+Saturninia carbonum
+Saxonella crepaturae
+Scaldicetus grandis
+Scaptonyx edwardsi
+Schizodelphis sulcatus
+Schizogliravus micio
+Sciurodon cadurcensis
+Sciurus aureogaster
+Sciurus carolinensis
+Sciurus giganteus
+Sciurus niger
+Sciurus vulgaris
+Scotophilus viridis
+Sicista betulina
+Soergelia mayfieldi
+Sorex alpinus
+Sorex araneus
+Sorex coronatus
+Sorex minutus
+Sorex praealpinus
+Sorex runtonensis
+Sorex spec
+Soricella discrepans
+Sousa teuszii
+Speothos venaticus
+Spermophilinus besanus
+Spermophilinus bredai
+Spermophilus citellus
+Squalodelphis fabianii
+Squalodon meyeri
+Squalodon mirabilis
+Squalodon molassicus
+Squalodon servatum
+Srinitium caeruleum
+Steatomys krebsii
+Stenella coeruleoalba
+Stenella longirostris
+Steneofiber depereti
+Stenoplesictis cayluxi
+Stephanorhinus hundsheimensis
+Stromeriella depressa
+Sturnira nana
+Suevoglis wannemacheri
+Suevosciurus fraasi
+Suricata suricatta
+Sus scrofa
+Sylvilagus palustris
+Symphalangus syndactylus
+Tachypteron franzeni
+Tadarida engesseri
+Tadarida leptognatha
+Talpa caeca
+Talpa episcopalis
+Talpa europaea
+Talpa fossilis
+Talpa gilothi
+Talpa minor
+Talpa minuta
+Talpa tenuidentata
+Talpa vallesensis
+Tamias sibiricus
+Tamias striatus
+Tamiasciurus hudsonicus
+Tapiriscus pannonicus
+Tapirulus hyracinus
+Tapirus priscus
+Tapirus terrestris
+Taucanamo sansaniense
+Taurotragus oryx
+Taxidea taxus
+Tenrec ecaudatus
+Tenuibrachiatum storchi
+Tetralophodon longirostris
+Thomasomys paramorum
+Tobienia kretzoii
+Toeniodus hexalophodus
+Tragelaphus angasii
+Tragelaphus spekii
+Tragelaphus strepsiceros
+Tremarctos ornatus
+Trilophomys schaubi
+Trocharion albanense
+Tupaia montana
+Tursiops truncatus
+Ulmensia antecedens
+Ulmensia ehrensteinensis
+Urocyon cinereoargenteus
+Urotrichus dolichochir
+Ursavus elmensis
+Ursus americanus
+Ursus arctos
+Ursus deningeri
+Ursus maritimus
+Ursus spec
+Ursus spelaeus
+Ursus thibetanus
+Varecia variegata
+Vectipithex raabi
+Vectipithex ulmensis
+Vespertilio discolor
+Vespertilio murinus
+Vespertilio spec
+Vicugna pacos
+Vicugna vicugna
+Vulpes corsac
+Vulpes lagopus
+Vulpes vulpes
+Walbeckodon krumbiegeli
+Xenocyon lycaonoides
+Zalophus californianus
