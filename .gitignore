@@ -33,8 +33,9 @@ env/
 # -------------------------
 # Ignore everything in outputs/ because it can be regenerated
 outputs/
-
+inputs/
 GermanMammalsKaren.ipynb
+MappingMammalsKaren.ipynb
 
 # -------------------------
 # LARGE / SCRATCH DATA (OPTIONAL)
